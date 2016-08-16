@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can I receive email notification when IKMC products for my gene are available?"
 date:   2009-12-15 15:15:42 +0100
 ---

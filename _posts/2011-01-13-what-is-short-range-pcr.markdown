@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What is the short range PCR (SR-PCR) as used by the MGP?"
 date:   2011-03-30 15:15:42 +0100
 ---

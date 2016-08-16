@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What is EMMA's role in FIMRe, the Federation of International Mouse Resources?"
 date:   2010-01-13 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Is an MTA required to obtain MGP mice, and where do I find the right MTA?"
 date:   2011-03-30 15:15:42 +0100
 ---

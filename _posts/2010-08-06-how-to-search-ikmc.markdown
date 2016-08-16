@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How Can I Search the IKMC Database?"
 date:   2010-08-06 15:15:42 +0100
 ---

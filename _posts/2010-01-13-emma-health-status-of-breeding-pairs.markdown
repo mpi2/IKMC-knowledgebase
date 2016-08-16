@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What will be the health status of the breeding pairs I receive?"
 date:   2010-01-13 15:15:42 +0100
 ---

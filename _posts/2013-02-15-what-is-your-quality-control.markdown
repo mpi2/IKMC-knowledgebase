@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What Is Your Quality Control (Genotyping) Strategy?"
 date:   2013-02-15 15:15:42 +0100
 ---

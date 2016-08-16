@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Who is responsible for determining/confirming the structure of the mutation for MGP alleles?"
 date:   2011-01-13 15:15:42 +0100
 ---

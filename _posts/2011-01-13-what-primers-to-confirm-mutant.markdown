@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What are the primers used to confirm the three-prime and five-prime homology arms for MGP mutants?"
 date:   2011-03-30 15:15:42 +0100
 ---

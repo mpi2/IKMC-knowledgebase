@@ -1,0 +1,32 @@
+<div class="leftBlock">
+  <div class="searchFormBlock">
+  <table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+      <div style="padding-bottom: 5px;" class="nowrap">
+        <b>Search:</b>
+      </div>
+      <div id="div_search_alert" style="display: none;" class="fieldAlert">
+        Please enter a keyword or ID
+      </div>          
+      <div class="nowrap">
+      <form action="" style="margin:0px;" onsubmit="return validateQuickSearch('Please enter a keyword or ID')">
+        <input type="hidden" name="s" id="s" value="1">
+        <input type="text" name="q" id="searchq" value="" class="colorInput" style="width: 135px;">
+        <input type="submit" name="sb" id="sb" value=" » " title="Go">
+      </form>
+      </div>
+    </td>
+    <td valign="bottom" style="padding-left: 10px;">
+      <img src="http://www.knockoutmouse.org/kb/client/images/icons/help.gif" alt="" width="14" height="16" border="0" onmouseover="ShowHelp('search_tip', '', 'Search in knowledgebase or by article ID', '')" onmouseout="HideHelp('search_tip')">
+      <div id="search_tip" style="display: none;" class="nowrap"></div>
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  </div>
+</div>
+
+<div id="menu_content">
+
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Do you have primer sequences to identify the conditional allele that should be generated after breeding MGP mice with Flp mice?"
 date:   2011-03-30 15:15:42 +0100
 ---

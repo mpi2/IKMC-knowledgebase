@@ -1,0 +1,217 @@
+/* HEADER & CONTENT */	
+a.header  { 
+	color:#ffffff;
+	text-decoration : none;
+	font-size : 1.7em;
+	font-weight: bold; 
+}
+
+div.header { 
+	padding: 15px 20px;
+	background: #4584C1; color:#ffffff; text-align: left;
+	border-bottom: 2px solid #366CA1;
+	margin-bottom: 0px;
+}
+
+div.content {
+	padding: 10px;
+}
+
+/* LOGIN */	
+div.login { 
+	font-size : 0.9em; 
+	font-weight: normal; 
+	text-align: right; 
+	padding-right: 0px;  
+	color: #FFFFFF;
+	float: right;
+}
+
+a.login {  color: #FFFFFF; }
+
+
+/* OTHER */
+.menuBlock {
+	padding: 4px;
+	margin-bottom: 10px;
+	border: 1px solid #DADADA;
+	text-align: center;
+	font-size : 0.9em;
+	font-weight: bold;
+	background: #ECECEC;
+	text-align: left;
+}
+
+.menuItem, .menuItemSelected {
+	/*padding: 4px 30px;*/
+	margin-right: 8px;
+	border: 1px solid #DADADA;
+	text-align: center;
+	background: #F4F4F4;
+	
+}
+
+.menuItem a {
+	color: #000033;
+	text-decoration: none;
+}
+
+.menuItemSelected {
+	background: #4584C1;
+	border: 1px solid #DDDDDD;
+}
+
+.menuItemSelected a {
+	color: #FFFFFF;
+	text-decoration: none;		
+}
+
+
+.menuItemExtra {
+	/*padding: 4px 10px;*/
+	margin-left: 8px;
+	border: 1px solid #DADADA;
+	/*text-align: center;*/
+	background: #F4F4F4;
+}
+
+.menuItemExtra a {
+	color: #000033;
+	text-decoration: none;		
+}
+
+.menuItemSpace {
+	padding: 4px 30px;
+	/*cursor: pointer;
+		width: 100%;*/
+}
+
+/*
+a.topMenu {
+	color: #000033;
+	text-decoration: none;	
+}
+*/
+
+.searchForm {
+	font-size : 0.9em;
+	font-weight: bold;
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	background: #ececec;
+	border: 1px solid #DADADA;
+}
+
+.menuItem3 {
+	background: #ececec;
+	font-size : 0.9em;
+	font-weight: bold;
+	padding: 5px 10px;
+	border-bottom: 1px solid #DADADA;
+}
+
+.menuItem3 a {
+	color: #000033;
+	text-decoration: none;	
+}
+
+.menuBlockHeader {
+	background: #F4F4F4;
+	border: 1px solid #DADADA;
+}
+
+.tdArticleTitle    { 
+	background-color : #FFFFFF;  
+	border-bottom: 2px solid #D4D4D4; 
+}
+
+div.bottom {
+	margin-top: 5px;
+	padding: 8px 5px;
+	border-top: 1px solid #DADADA;
+}
+
+div.navigation {
+	padding: 6px;
+	background: #F4F4F4;
+	border-bottom: 1px solid #DADADA;
+	margin-bottom: 10px;
+}
+
+.searchFormBlock {
+	font-size : 0.9em;
+	font-weight: bold;
+}
+
+.contentBlock {
+	border: 1px solid #DADADA;
+}
+
+.leftBlock {
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	background: #ececec;
+	border: 1px solid #DADADA;
+}
+
+/* LEFT MENU */
+/* for menu nodes and overflow, it can control left width 
+image width set to 220 */
+.oTreeNode  { width: 204px; }
+.oTreeNode2 { width: 200px; }
+
+.categoryBlock {
+	padding: 5px 6px;
+	background: #F4F4F4;
+}
+
+
+
+/* Dropdown js menu */
+
+#right_drop_menu {
+	margin: 0;
+	padding: 0;
+    visibility: hidden;
+	float: right;
+	position: absolute;
+	right: 0px;
+	top: 17px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+#right_drop_menu td {
+	background-color: white;
+	border-top: 1px solid #dadada;
+	white-space:nowrap;
+	padding: 5px 10px;
+}
+
+#right_drop_menu td a {
+    background: #ffffff;
+    color: #24313C;
+    font-weight: normal;
+    height: 14px;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+}
+
+#right_drop_menu table {
+	border-right: 1px solid #dadada;
+	border-left: 1px solid #dadada;
+	border-bottom: 1px solid #dadada;
+}
+
+#manage_menu {
+	padding: 4px 36px;
+	background: #F4F4F4;
+	position: relative;
+	font-weight: bold;
+}
+
+#manage_menu a {
+	text-decoration: none;
+	color: black;
+}

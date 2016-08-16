@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can I order mice from the WTSI MGP program?"
 date:   2011-01-13 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Where can I find MGP mouse phenotype data?"
 date:   2011-03-30 15:15:42 +0100
 ---

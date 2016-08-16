@@ -5,51 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
   	<title>{{ page.title }}</title>
 	
-	  <!--[if IE]>
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/client/skin/common_ie.css" />
-	  <![endif]-->
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/client/skin/common.css">
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/client/skin/view_left/common_view.css">
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/client/skin/view_left/default/default.css">
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/client/skin/view_left/default/default_no_header.css">
+	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/common.css">
+	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/common_view.css">
+	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/default_no_header.css">
 
-	  <link rel="alternate" type="application/rss+xml" title="IKMC Knowledgebase RSS" href="http://www.knockoutmouse.org/kb/rss.php">
-	  <link rel="alternate" type="application/rss+xml" title="IKMC Knowledgebase RSS (News)" href="http://www.knockoutmouse.org/kb/rss.php?t=n">
-	  <script src="http://www.knockoutmouse.org/kb/client/jscript/common.js" type="text/javascript"></script>
+	  <script src="{{ site.baseurl }}/javascripts/common.js" type="text/javascript"></script>
 	
-	  <link rel="stylesheet" type="text/css" href="http://www.knockoutmouse.org/kb/templates/ikmc_kb.css">
+	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/ikmc_kb.css">
   </head>
   <body><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: auto; left: 0px; top: 0px;"></div>
-    <div id="knockoutmouse_header">
-      <span id="fontresize"></span>
-      <a href="http://www.knockoutmouse.org/" title="International Knockout Mouse Consortium">
-        <h1>International Knockout Mouse Consortium - Knowledgebase</h1>
-      </a>
-    </div>
+    {% include navigation.html %}
   
-    <div id="knockoutmouse_navigation">
-      <ul>
-        <li><a href="http://www.knockoutmouse.org/" title="International Knockout Mouse Consortium">Knowledgebase</a></li>
-        <li><a href="http://www.knockoutmouse.org/aboutikmc">Downloads</a></li>
-        <li><a href="https://www.mousephenotype.org/contact/IKMC-ES-Cells">Ask a question</a></li>
-        <li><a href="http://www.knockoutmouse.org/download">About IKMC</a></li>
-        <li><a href="http://www.mousephenotype.org/data/search/gene?kw=*:*">Nominate Gene</a></li>
-        <li><a href="http://www.mousephenotype.org/data/search/product?kw=*:*">Order Products</a></li>
-      </ul>
-    </div>
-  
-    <div class="container">
-			{{ content }}
-		</div><!-- /.container -->
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr><td width="220"></td><td width="1" style="padding: 0px, 7px;"></td><td width="100%"></td></tr>
+        <tr>
 
-		<footer>
-			<div class="grid_10" style="text-align:right;">
-        This resource is developed and maintained by the <a href="http://www.mousephenotype.org/">MPI2 consortium</a><br>
-        Supported by the NIH KOMP2 project<br>
-        This resource was initially developed by the <a href="http://www.knockoutmouse.org/about">I-DCC</a><br>
-        Supported by the European Union (Project number: 223592)
-      </div>
-		</footer>
+          <td class="content1" valign="top">
+            {% include search.html%}
+          </td>
+
+          <td></td>
+
+          <td valign="top">
+            <div class="navigation">
+              <a href="http://www.knockoutmouse.org/kb/" class="navigation">KB Home</a> / IKMC
+            </div>
+
+            <div class="contentMain">
+              <div class="container">
+                {{ content }}
+              </div><!-- /.container -->
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+		{% include footer.html %}
   
   </body>
 </html>

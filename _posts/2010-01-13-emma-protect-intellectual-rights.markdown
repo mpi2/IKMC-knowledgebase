@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can I cover my intellectual property rights by an MTA?"
 date:   2010-01-13 15:15:42 +0100
 ---

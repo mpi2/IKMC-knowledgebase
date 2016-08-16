@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Neo Count (qPCR)"
 date:   2011-11-15 15:15:42 +0100
 ---

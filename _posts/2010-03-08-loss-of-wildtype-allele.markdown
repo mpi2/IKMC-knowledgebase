@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Loss of Wild Type Allele (LOA)"
 date:   2011-03-08 15:15:42 +0100
 ---

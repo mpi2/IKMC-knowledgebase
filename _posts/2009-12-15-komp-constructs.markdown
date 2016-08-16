@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What are the targeting constructs used for making the KOMP products?"
 date:   2009-12-15 15:15:42 +0100
 ---

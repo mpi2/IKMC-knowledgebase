@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can you confirm that the MGP mouse strain has the mutation allele at the desired genetic locus?"
 date:   2011-01-13 15:15:42 +0100
 ---

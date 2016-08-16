@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How long does it take for an EMMA strain to become available for distribution?"
 date:   2010-01-12 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How do targeted, non-conditional MGP alleles differ from the knockout first conditional ready alleles?"
 date:   2011-03-30 15:15:42 +0100
 ---

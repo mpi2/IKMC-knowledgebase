@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How much does it cost to purchase mice from the MGP?"
 date:   2011-01-13 15:15:42 +0100
 ---

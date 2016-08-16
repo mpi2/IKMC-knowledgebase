@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Terms and Conditions for All Content on This Site"
 date:   2010-08-05 15:15:42 +0100
 ---

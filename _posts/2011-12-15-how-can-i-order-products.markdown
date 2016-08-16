@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How can I order IKMC products?"
 date:   2009-12-15 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Criteria for Selecting Candidates for Distribution"
 date:   2010-09-07 15:15:42 +0100
 ---

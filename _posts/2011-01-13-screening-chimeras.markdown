@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Screening of chimeras for germ line transmission (GLT)"
 date:   2011-03-30 15:15:42 +0100
 ---

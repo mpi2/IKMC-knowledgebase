@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What is Long Range PCR (LR-PCR) as used by the MGP?"
 date:   2011-03-30 15:15:42 +0100
 ---

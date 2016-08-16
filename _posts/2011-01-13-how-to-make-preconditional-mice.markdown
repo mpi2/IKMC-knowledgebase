@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How do I make a preconditional MGP mouse model conditional?"
 date:   2011-03-30 15:15:42 +0100
 ---

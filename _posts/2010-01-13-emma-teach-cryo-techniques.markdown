@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Does EMMA teach cryopreservation techniques?"
 date:   2010-01-13 15:15:42 +0100
 ---

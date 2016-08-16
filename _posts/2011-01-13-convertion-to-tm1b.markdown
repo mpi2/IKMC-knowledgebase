@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Genotyping of mice converted to Tm1b post Cre treatment?"
 date:   2011-03-30 15:15:42 +0100
 ---

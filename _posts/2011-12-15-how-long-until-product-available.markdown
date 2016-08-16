@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "My gene is in the production pipeline. How long will it take until vectors, mutant ES cells, mutant mice are available?"
 date:   2009-12-15 15:15:42 +0100
 ---

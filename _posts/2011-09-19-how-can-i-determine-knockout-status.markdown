@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How can I determine the knockout status of my gene?"
 date:   2011-09-19 15:15:42 +0100
 ---

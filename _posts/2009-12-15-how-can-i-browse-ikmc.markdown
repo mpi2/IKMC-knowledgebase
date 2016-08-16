@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How can I browse the IKMC database?"
 date:   2009-12-15 15:15:42 +0100
 ---

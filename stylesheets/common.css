@@ -1,0 +1,256 @@
+/* COMMON */
+body, html { padding: 0px; margin: 0px; height: 100%; }
+body, TD, DIV { 
+	font-family : Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	font-size : 75%;
+}
+body { color: #121212; }
+TD, DIV    { font-size : 1.0em;  }
+.textBlock { line-height : 150%; }
+
+
+/*body { direction: rtl; unicode-bidi: embed; }
+TD   { direction: rtl; unicode-bidi: embed; }
+DIV  { direction: rtl; unicode-bidi: embed; }*/
+
+/* COMMON LINKS */
+a:link     { background-color: transparent; }
+a:visited  { background-color: transparent; }
+a:active   { background-color: transparent; }
+a:hover    { background-color: transparent; }
+a.noformat { text-decoration: none; color: #121212; }
+
+/* HEADER & CONTENT */	
+div.content {
+	padding: 10px 20px;
+}
+
+div.bottom {
+	padding: 10px 20px;
+}
+
+/* CATEGORY */
+.catLink        { font-weight : bold; }
+.catDescription {  }
+
+
+/* ARTICLE */
+H1.articleTitle    { font-size: 1.5em; margin: 0px; line-height : 150%; }
+.tdArticleTitle    { background-color: #EFEFEF; padding : 1px 4px; border-bottom: 1px solid #D4D4D4; }
+a.articleLink      { font-weight: bold; }
+a.articleLinkId    { font-weight: bold; } /* article id */
+
+a.articleLinkOther {  }  /* for article links in category and related, ... */
+a.articleLinkOtherId {  }  /* article id */
+
+.faqArticleTitle   { font-weight : bold; }
+
+.articleDecription { color : #121212; }
+.articleStaff, .articleStaff2      { color : #505050; 	font-size : 0.8em; }
+.articleStaff2                     { padding-right: 15px; }
+
+.glossaryItem      { background-color : #F0F0F0; cursor : help; color : #CC3333; }
+
+
+
+/* ARTICLE BLOCK */
+a.abLink     {  }
+.abBorder    { background-color : #E4E4E4; }
+.abBgr       { background-color : #FFFFFF; font-size : 0.9em; }
+.abBgrDarker { background-color : #FAFAFA; color : #606060;  font-size : 0.9em; padding: 7px; }
+
+/* ARTICLE BLOCK BOTTOM*/
+a.abbLink   { font-size : 0.9em; }
+.abbLine    { background-color: #F8F8F8; border-bottom: thin dotted #E4E4E4; padding: 6px 5px; }
+
+/* LOGIN LINK */
+div.login { font-size: 0.8em; font-weight: bold; text-align: right; white-space : nowrap;
+			padding-right: 15px; padding-bottom: 8px; }		
+a.login {  }
+
+
+/* NAVIGATION */
+div.navigation  { color : #121212; font-size : 0.9em; }
+a.navigation    { color : #121212; }
+
+
+/* ATTACHMENT */
+.atTitle      { font-weight : bold;  }
+.atEntry      { /* font-size: 0.8;*/ }
+
+
+/* FILES */
+.fName        { font-size : 0.8em; }
+
+
+/* TABLES & TITLES*/
+.tdBorder     { background-color : #E4E4E4;  }
+.tdTitle     { background-color : #eaeaea; padding : 4px 4px; border-bottom: 1px solid #cfcfcf; }
+.tdSubTitle  { background-color : #EFEFEF; padding : 4px 4px; border-bottom: 1px solid #D4D4D4; }
+
+.trLighter    { background-color : transparent; }
+.trDarker     { background-color : #F4F4F4; }
+.trMoreDarker { background-color : #DADADA; }
+
+
+/* ADMIN AREA */
+.AdminAreaCss .tdBorder{ background-color : #D3DDEB;  border : 1px solid #B9B9B9;  }
+.AdminAreaCss .tdTitle { background-color : #7898C2; color : #FFFFFF;  padding : 6px 5px;  font-size : 10px;  font-weight : bold;    }
+.AdminAreaCss .tdSubTitle { background-color : #A8BCD7;  }
+.AdminAreaCss .trLighter{ background-color : #F8F8F3 }
+.AdminAreaCss .trDarker{ background-color : #F1F1F1; }
+.AdminAreaCss .trMoreDarker{ background-color : #DADADA; }
+
+
+
+/* MAP */
+.mapTreeCategoryImage    { padding: 2px 5px; vertical-align: middle; }
+.mapTreeArticleImage     { padding: 2px 5px 2px 1px; vertical-align: middle; }
+.mapTreeArticleImageTop  { padding: 1px 5px; vertical-align: middle; }
+.mapTreeLinkBlock        { vertical-align: top; }
+.mapTreeCategoryBlock    { padding-bottom: 3px; }
+.mapTreeArticleBlock     { padding-top: 3px; padding-left: 28px; }
+
+
+/* COMMENTS */
+.commentBlock  { margin-bottom: 8px; background-color: #F8F8F8; border: thin solid #E4E4E4; }
+.commentTitle  { padding: 4px 7px; background-color: #EFEFEF; border-bottom: thin solid #E4E4E4; }
+.commentText   { padding: 7px; } 
+.commentUser   { font-weight : bold; }
+.commentAction { padding: 0px 7px; font-size: 0.9em; }
+.commentLine   { margin: 10px 0px 5px 0px; border-top: thin solid #E4E4E4; }
+
+/* NEWS */
+.newsDate      { color: #800000; font-weight : bold; }
+
+/* TAB */
+.mTabActive {
+	font-size : 11px;
+	padding : 4px 10px 3px 10px;
+	background-color : #FFFFFF;
+	border-top: 1px solid #8592A2;
+	border-right: 1px solid #8592A2;
+}
+.mTabNonactive {
+	color : #202020;
+	font-size : 11px;
+	padding : 4px 10px 3px 10px;
+	background-color : #F5F4ED;
+	border-top: 1px solid #8592A2;
+	border-right: 1px solid #8592A2;
+	border-bottom: 1px solid #8592A2;
+}
+
+.mTabBetween { border-bottom: 1px solid #8592A2; }
+.mTabBorderRight { border-right: 1px solid #8592A2; border-bottom: 1px solid #8592A2; }
+
+
+/*  FORMS  */
+.trForm         { background-color : #FAFAFA; }
+.tdFormCaption  { background-color : #F4F4F4;  text-align: right; width: 150px; }
+
+input, select   { font-size : 12px;  margin : 0px;  padding: 0px; }
+input.text      { width : 110px; }
+input.shortText { width : 80px; }
+input.longText  { width : 250px;   }
+
+.button         { width : 150px; }
+.colorInput     { background-color : #F5F4ED; }
+.requiredSign   { color : #C40000; font-weight : bold; }
+.formComment    { font-size : 0.9em; }
+.fieldAlert     { color:#cc0000; font-weight: normal; }
+
+
+/*  OTHER  */
+.copyright      { font-size : 0.8em; }
+.footer_info    { font-size : 0.8em; padding: 8px 0px; }
+.pageByPage     { font-size : 0.9em; }
+.smallerText    { font-size : 0.9em; }
+.nowrap         { white-space: nowrap; }
+.space          { padding-bottom: 5px; }
+.less_space     { padding-bottom: 2px; }
+.info           { background-color : #FFFFE1; border : 1px solid #8592A2; padding: 10px;}
+
+.fright         { float: right; }
+.fleft          { float: left; }
+
+.nextprev		{  }
+A.nextprev		{ font-weight: bold; }
+
+
+/*
+img {display: block;} 
+*/
+
+/* glosarry */
+
+
+
+/* FCK fix */
+
+div.textBlock > p:first-child {
+	padding: 0px; 
+	margin: 0px;
+}
+
+div.textBlock > h3:first-child {
+	padding-top: 0px; 
+	margin-top: 0px;
+}
+
+span.glosarryItem2 > p:first-child {
+	padding: 0px; 
+	margin: 0px;
+}
+
+
+/*  CONTENT STYLES (could be applied in FCK editor)  */
+/* should be updated here and in admin/tools/fcleditor_custom/fck_editorarea.css */
+
+/* Templates Styles */
+DIV.box {
+	padding: 5px 10px;
+    overflow:hidden;
+	zoom: 1;
+}
+
+DIV.yellowBox {
+	background-color : #FFFFE1;
+	border : 1px solid #959595;
+}
+
+DIV.greyBox {
+	background-color : #eaeaea;
+	border : 1px solid #959595;
+}
+
+
+H2.lineTitle,H3.lineTitle { 
+	margin: 0px; 
+	line-height: 150%; 
+	border-bottom: 1px solid #D4D4D4; 
+}
+H2.lineTitle { font-size: 1.3em; }
+H3.lineTitle { font-size: 1.2em; }
+
+
+/* FCK buiilt Styles */
+
+h3 {
+	color: #333399;
+}
+
+.FCKTitle {
+	font-weight: bold;
+	font-size: 18px;
+	color: #cc3300;
+}
+
+.FCKCode {
+	border: #8b4513 1px solid;
+	padding-right: 5px;
+	padding-left: 5px;
+	color: #000066;
+	font-family: 'Courier New' , Monospace;
+	background-color: #ff9933;
+}

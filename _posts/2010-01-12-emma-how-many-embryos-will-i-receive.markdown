@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How many embryos will I receive?"
 date:   2010-01-12 15:15:42 +0100
 ---

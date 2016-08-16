@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Is There Any Chance That EUCOMM Could Generate a Mouse for Us?"
 date:   2010-08-05 15:15:42 +0100
 ---

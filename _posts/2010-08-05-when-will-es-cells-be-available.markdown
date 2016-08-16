@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "When the ES Cells Become Available, Will There Be Any Documentation for Pathogen Testing?"
 date:   2010-08-05 15:15:42 +0100
 ---

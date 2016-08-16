@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "LacZ SR-PCR"
 date:   2010-11-30 15:15:42 +0100
 ---

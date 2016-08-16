@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Mouse Clinic Quality Control Tests - (Mice)"
 date:   2010-09-20 15:15:42 +0100
 ---

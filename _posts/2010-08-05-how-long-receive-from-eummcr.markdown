@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How Long Does It Take to Receive Knockout Resources From EuMMCR?"
 date:   2010-08-05 15:15:42 +0100
 ---

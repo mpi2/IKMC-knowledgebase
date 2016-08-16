@@ -1,0 +1,63 @@
+/* @override 
+	http://www.i-dcc.org/kb_test/templates/ikmc_kb.css
+	http://www.knockoutmouse.org/kb_test/templates/ikmc_kb.css
+*/
+
+/* Header */
+
+#knockoutmouse_header {
+	height: 92px;
+	width: 95%;
+	margin: 0 auto;
+	background: url('http://www.knockoutmouse.org/martsearch/images/ikmc-logo.png') no-repeat;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#knockoutmouse_header a {
+	text-decoration: none;
+}
+
+#knockoutmouse_header a h1 {
+	color: #002255;
+	margin-bottom: 0;
+	padding: 35px 0 40px 100px;
+}
+
+/* Navigation */
+
+#knockoutmouse_navigation {
+	border-top: 1px solid #b4d7f0;
+	border-bottom: 1px solid #b4d7f0;
+	margin: 2px 0 0;
+	color: #ffffff;
+	background: #002255;
+	font: 12px Arial, Helvetica, sans-serif;
+}
+
+#knockoutmouse_navigation ul {
+	font-weight: 600;
+	padding: 5px;
+	width: 95%;
+	list-style: none;
+	margin: 0 auto;
+}
+
+#knockoutmouse_navigation li {
+	background: #002255;
+	margin: 0 1px 0 1px;
+	display: inline;
+	list-style-type: none;
+}
+
+#knockoutmouse_navigation li a {
+	color: #ffffff;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+#knockoutmouse_navigation li a:hover,
+#knockoutmouse_navigation li a:active {
+	color: #002255;
+	background: #ffffff;
+	text-decoration: none;
+}

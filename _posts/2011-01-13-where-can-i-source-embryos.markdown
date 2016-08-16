@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Where can I source the ES cells used by the MGP?"
 date:   2011-01-13 15:15:42 +0100
 ---

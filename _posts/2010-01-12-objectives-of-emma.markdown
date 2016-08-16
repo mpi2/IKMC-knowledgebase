@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What are the objectives of EMMA?"
 date:   2010-01-12 15:15:42 +0100
 ---

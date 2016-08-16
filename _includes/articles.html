@@ -1,0 +1,30 @@
+<div class="tdTitle" style="margin-bottom: 12px;">
+  <div><b>Articles</b></div>
+</div>
+<table border="0" width="100%" cellpadding="2" cellspacing="1">
+<tbody>
+
+
+  {% for post in site.posts %}
+
+  <tr valign="top">
+    <td style="padding-left: 5px;"><img src="/images/article.gif" alt="document" width="11" height="14"></td>
+    <td style="padding-left: 5px;" width="100%">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="articleLink">{{ post.title | escape }}</a>
+      <div style="margin-top: 3px;" class="articleDecription">{{ post.excerpt | strip_html }}</div>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding: 3px;">
+      <span class="articleStaff2">{{ post.date | date_to_long_string }}</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 3px;"></td>
+  </tr>
+
+  {% endfor %}
+
+</tbody>
+</table>

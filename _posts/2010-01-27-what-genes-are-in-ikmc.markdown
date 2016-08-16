@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What genes are in the IKMC database?"
 date:   2010-01-27 15:15:42 +0100
 ---

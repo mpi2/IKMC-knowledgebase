@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How can I use the EMMA axenic (germ-free) service?"
 date:   2010-01-13 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What are the IKMC allele types?"
 date:   2010-08-24 15:15:42 +0100
 ---

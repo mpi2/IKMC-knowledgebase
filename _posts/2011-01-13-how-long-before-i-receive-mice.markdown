@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How long before I can receive MGP mice?"
 date:   2011-03-30 15:15:42 +0100
 ---

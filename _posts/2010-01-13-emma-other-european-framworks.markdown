@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Is EMMA involved in other European Framework Projects?"
 date:   2010-01-13 15:15:42 +0100
 ---

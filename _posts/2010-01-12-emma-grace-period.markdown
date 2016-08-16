@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Does EMMA offer a delayed release of the mice?"
 date:   2010-01-12 15:15:42 +0100
 ---

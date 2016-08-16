@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can EMMA strains be found on other internet resources?"
 date:   2010-01-13 15:15:42 +0100
 ---

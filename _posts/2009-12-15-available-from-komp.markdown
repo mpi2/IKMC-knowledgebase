@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What is available from the KOMP Repository?"
 date:   2009-12-15 15:15:42 +0100
 ---

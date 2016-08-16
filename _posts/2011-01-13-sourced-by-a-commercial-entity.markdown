@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can MGP materials be sourced by a commercial entity?"
 date:   2011-03-30 15:15:42 +0100
 ---

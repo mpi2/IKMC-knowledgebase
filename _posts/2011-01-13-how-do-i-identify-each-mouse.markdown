@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How do I identify each MGP mouse?"
 date:   2011-03-30 15:15:42 +0100
 ---

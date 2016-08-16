@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Who can deposit strains in EMMA?"
 date:   2010-01-12 15:15:42 +0100
 ---

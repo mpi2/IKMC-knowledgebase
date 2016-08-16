@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What is the MGP?"
 date:   2010-08-05 15:15:42 +0100
 ---

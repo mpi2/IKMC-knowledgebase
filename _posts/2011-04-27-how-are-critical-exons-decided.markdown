@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "How is the \"critical\" exon decided in CSD alleles?"
 date:   2011-04-27 15:15:42 +0100
 ---

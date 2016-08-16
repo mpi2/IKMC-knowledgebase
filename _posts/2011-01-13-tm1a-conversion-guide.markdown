@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "tm1a allele conversion guide"
 date:   2011-03-30 15:15:42 +0100
 ---

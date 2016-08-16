@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Does the MGP supply of ovocytes, sperm or embryos?"
 date:   2011-01-13 15:15:42 +0100
 ---

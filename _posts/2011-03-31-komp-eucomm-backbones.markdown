@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What are the EUCOMM and KOMP-CSD targeting vector plasmid backbones?"
 date:   2011-03-31 15:15:42 +0100
 ---

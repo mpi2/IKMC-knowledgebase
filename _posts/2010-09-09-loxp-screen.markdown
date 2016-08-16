@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "LoxP Screen"
 date:   2010-09-09 15:15:42 +0100
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What Are the Protocols Used in the EUCOMM and KOMP-CSD ES Cell Production Pipelines?"
 date:   2011-11-02 15:15:42 +0100
 ---

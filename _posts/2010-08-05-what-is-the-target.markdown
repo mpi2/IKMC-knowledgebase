@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "What Is a Targeted Trap? Are They Conditionals?"
 date:   2010-08-05 15:15:42 +0100
 ---

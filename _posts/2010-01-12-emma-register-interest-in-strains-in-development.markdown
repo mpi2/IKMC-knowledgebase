@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can I register interest for strains that are still under development?"
 date:   2010-01-12 15:15:42 +0100
 ---

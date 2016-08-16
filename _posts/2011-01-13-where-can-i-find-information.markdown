@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Where can I find information (e.g. a detailed allele map) for the mutant MGP allele?"
 date:   2011-01-13 15:15:42 +0100
 ---

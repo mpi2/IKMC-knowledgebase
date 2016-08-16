@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Tests for Contamination"
 date:   2010-08-05 15:15:42 +0100
 ---

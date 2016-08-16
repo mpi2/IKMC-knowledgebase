@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Can I nominate genes for targeting by IKMC? Can I raise the priority for genes that are on the IKMC gene list?"
 date:   2009-12-15 15:15:42 +0100
 ---
