@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "3' Screen"
+date:   2010-09-09 15:15:42 +0100
+---
+
+This is the second step in the KOMP-CSD/EUCOMM production centre QC pipeline.
+Long range PCR (LRPCR) is performed between a universal primer in the 3' arm of the targeting cassette and two different genomic specific primers in the region downstream of the construct region.
+
+The subsequent PCR amplicon is sequenced with a primer to the downstream loxP ( LR primer [5'-ACTGATGGCGAGCTCAGACC-3'] ) to verify the gene and loxP site for conditional constructs or is sequenced ( R2R primer [5'-TCTATAGTCGCAGTAGGCGG-3'] ) to verify the gene for deletion/insertion constructs.
+
+### Possible Outcomes
+---
+This data originates from the [HTGT database][htgt].  In HTGT this QC test is called "3' arm QC" and can be reported with the following results:
+
+* nd = no PCR or sequencing reads detected
+* fail = PCR and/or sequencing read detected, but does not meet pass criteria
+* pass = PCR and/or sequencing read meet pass criteria.
+
+### Pass Criteria
+---
+In order for a ES cell to be called a "pass" for this QC test it has to meet one of the following criteria:
+
+* 1 x GR LRPCR band + valid LR sequence read (Conditional constructs)
+* 2 x GR LRPCR band (Conditional and deletion/insertion constructs)
+* 1 x GR LRPCR band + valid R2R sequence read (Deletion/insertion constructs)
+
+This logic is explained in more detail in the following flow chart:
+
+![alt text][image-3-arm-QC-pass-fail-logic]
+
+[htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
+[image-3-arm-QC-pass-fail-logic]: /images/3_arm_QC_pass_fail_logic.png "3' arm QC logic"

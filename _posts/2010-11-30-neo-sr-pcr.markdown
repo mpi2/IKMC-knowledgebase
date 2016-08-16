@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Neo SR-PCR"
+date:   2010-11-30 15:15:42 +0100
+---
+
+The Neo short range PCR detects the presence of the Neo reporter in the cassette. This can be used as a rapid screen on F1 chimera progeny samples to detect likely germ line transmission

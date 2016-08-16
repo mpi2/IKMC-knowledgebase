@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "3' SR-PCR"
+date:   2010-08-05 15:15:42 +0100
+---
+
+The EUCOMM  distribution laboratory (EuMMCR) performs one short-range PCR (SR-PCR) with a gene specific primer and a generic primer adjacent to the downstream loxP site.  With this PCR we show that the downstream LoxP site is in the right distance to the targeted region.
+
+**Please Note**:
+
+What the entire EUCOMM QC process does not account for e.g.:
+
+* double integrations (required experiment: quantitative PCR or Southern Blot)
+* integrations with homologous integration only on one side and insertion on the other (required experiment: Southern Blot)
+
+We currently estimate that events like these will be present between 5 and 10% of the clones of the EUCOMM resource.

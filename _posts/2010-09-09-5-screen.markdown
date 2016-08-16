@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "5' Screen"
+date:   2010-09-09 15:15:42 +0100
+---
+
+This is the third step in the KOMP-CSD/EUCOMM production centre QC pipeline. For conditional constructs , this test (the 5' Screen) is only performed If no long range PCR (LRPCR) bands are generated in the 3' Screen.
+
+LRPCR is performed between a universal primer in the 5' arm of the targeting cassette and two different gene specific primers in the region upstream of the construct region.
+
+The subsequent LRPCR amplicon is sequenced ( R1R primer [5'-CGTGGTATCGTTATGCGCCT-3'] ) to verify the gene.
+
+### Possible Outcomes
+---
+This data originates from the [HTGT database][htgt]. In HTGT this QC test is called "5' arm QC" and can be reported with the following results:
+
+* na = LRPCR not attempted
+* nd = no LRPCR or sequencing reads detected
+* fail = LRPCR and/or sequencing read detected, but does not meet pass criteria
+* pass = LRPCR and/or sequencing read meet pass criteria
+
+### Pass Criteria
+---
+In order for a ES cell to be called a "pass" for this QC test it has to meet one of the following criteria:
+
+* 1 x GF LR-PCR band + valid R1R sequence read
+* 2 x GF LR-PCR band
+
+This logic is explained in more detail in the following flow chart:
+
+![alt text][image-5-arm-QC-pass-fail-logic]
+
+[htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
+[image-5-arm-QC-pass-fail-logic]: /images/5_arm_QC_pass_fail_logic.png "5' arm QC logic"
