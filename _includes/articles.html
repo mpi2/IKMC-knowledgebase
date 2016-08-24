@@ -7,11 +7,23 @@
 
   {% for post in site.posts %}
 
+  {% assign belongs_to_group = false %}
+  {% for article_category in post.article_categories %}
+    {% if article_category == page.article_category %}
+      {% assign belongs_to_group = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if belongs_to_group == false %}
+    {% continue %}
+  {% endif %}
+
   <tr valign="top">
-    <td style="padding-left: 5px;"><img src="/images/article.gif" alt="document" width="11" height="14"></td>
+    <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/article.gif" alt="document" width="11" height="14"></td>
     <td style="padding-left: 5px;" width="100%">
       <a href="{{ post.url | prepend: site.baseurl }}" class="articleLink">{{ post.title | escape }}</a>
-      <div style="margin-top: 3px;" class="articleDecription">{{ post.excerpt | strip_html }}</div>
+      <div style="margin-top: 3px;" class="articleDecription">{{ post.excerpt | strip_html | truncate: 250}}</div>
     </td>
   </tr>
   <tr>

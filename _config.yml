@@ -20,9 +20,6 @@ baseurl: "/kb" # the subpath of your site, e.g. /blog
 url: "http://i-dcc.org.co.uk" # the base hostname & protocol for your site
 github_username:  pm9@ebi.ac.uk
 
-# plugin settings
-#paginate: 5
-
 # Build settings
 markdown: kramdown
 theme: minima

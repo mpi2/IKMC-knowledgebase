@@ -23,16 +23,23 @@
       {% assign article_count = 0 %}
       {% for post in site.posts %}
         {% for article_category in post.article_categories %}
-          {% if article_category == category['name'] %}
-            {% assign article_count = article_count | plus: 1 %}
-            {% break %}
+          {% if article_category == category %}
+            {% for dwnld in post.downloads %}
+              {% assign article_count = article_count | plus: 1 %}
+            {% endfor %}
+          {% else %}
+            {% for dwnld in post.downloads %}
+              {% if dwnld[1]["category"] == article_category or dwnld[1]["sub_category"] == article_category %}
+                {% assign article_count = article_count | plus: 1 %}
+              {% endif %}
+            {% endfor %}
           {% endif %}
         {% endfor %}
       {% endfor %}
 
     <td width="1" style="padding:5px;"><img src="{{ site.baseurl }}/images/folder.gif" alt="folder" width="15" height="12"></td>
     <td width="33%" style="padding:3px;">
-      <a class="catLink" href="{{ category['display_text'] | replace: ' ', '_' | replace: ':', '' | replace: '-', '' | replace: '(', '' | replace: ')', '' | downcase }}">{{ category['display_text'] }}</a> {% if article_count > 0 %} ({{ article_count }}) {% endif %}<br>
+      <a class="catLink" href="{{ site.data.category_data[category]["download_url"] | replace: "basehref+", "basehref+/"| replace: "basehref+", site.baseurl | replace: "'", "" }}">{{ site.data.category_data[category]["name"] }}</a> {% if article_count > 0 %} ({{ article_count }}) {% endif %}<br>
       <div class="catDescription" style="padding-top: 2px;"></div>
     </td>
     {% endfor %}

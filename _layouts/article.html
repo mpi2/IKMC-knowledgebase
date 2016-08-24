@@ -18,7 +18,7 @@
   
     <table width="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody>
-        <tr><td width="220"></td><td width="1" style="padding: 0px, 7px;"></td><td width="100%"></td></tr>
+        <tr><td width="220"></td><td width="1" style="padding: 0px 7px;"></td><td width="100%"></td></tr>
         <tr>
 
           <td class="content1" valign="top">
@@ -28,17 +28,60 @@
           <td></td>
 
           <td valign="top">
-            <div class="navigation">
-              <a href="http://www.knockoutmouse.org/kb/" class="navigation">KB Home</a> / IKMC
-            </div>
+            {% include bread-crumbs.html %}
 
             <div class="contentMain">
-              <div class="tdTitle" style="margin-bottom: 12px;">
-                <div><b>Article</b></div>
-              </div>
-              <div class="container">
-                {{ content }}
-              </div><!-- /.container -->
+              <table border="0" width="100%" cellpadding="2" cellspacing="1">
+              <tbody>
+                <tr class="tdSubTitle">
+                  <td colspan="2" class="tdSubTitle"><b>Article</b></td>
+                </tr>
+                <tr><td colspan="2" style="padding: 3px;"></td></tr>
+                <tr><td class="tdArticleTitle"><h1 class="articleTitle">{{ page.title }}</h1></td></tr>
+                <tr><td valign="top" style="padding: 10px 5px;">
+                  <div class="textBlock" style="padding-bottom: 10px;" id="kbp_article_body">{{ content }}</div>
+                </td></tr>
+              </tdody>
+              </table>
+
+              <table border="0" width="100%" cellpadding="2" cellspacing="1">
+              <tbody>
+                <tr class="tdSubTitle">
+                  <td colspan="2" class="tdSubTitle"><b>Also listed in</b></td>
+                </tr>
+                <tr><td colspan="2" style="padding: 3px;"></td></tr>
+                {% for category in page.article_categories %}
+                <tr valign="top">
+                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/icons/folder.gif" alt="folder" width="15" height="12"></td>
+                  <td width="100%" style="padding-left: 4px;">
+                    <a href="{{site.data.category_data[category]["url"] | replace: "basehref+", "basehref+/"| replace: "basehref+", site.baseurl | replace: "'", "" }}" class="articleLinkOther">{{site.data.category_data[category]["name"]}}</a>
+                  </td>
+                </tr>
+                {% endfor %}
+              </tdody>
+              </table>
+
+              <table border="0" width="100%" cellpadding="2" cellspacing="1">
+              <tbody>
+                <tr class="tdSubTitle">
+                  <td colspan="2" class="tdSubTitle"><b>Attachments</b></td>
+                </tr>
+                <tr><td colspan="2" style="padding: 3px;"></td></tr>
+                {% for download in page.downloads %}
+                <tr valign="top">
+                  {% assign doc_type = download[1]["download_path"] | slice: -3, 3  %}
+                  {% if doc_type == 'pdf' %}
+                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
+                  {% elsif doc_type == 'doc' %}
+                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
+                  {% endif %}
+                  <td width="100%" style="padding-left: 4px;">
+                    <a href="{{site.baseurl}}/files/{{ download[1]["download_path"]}}" class="articleLinkOther">{{ download[1]["download_path"] }}</a>
+                  </td>
+                </tr>
+                {% endfor %}
+              </tdody>
+              </table>
             </div>
           </td>
         </tr>

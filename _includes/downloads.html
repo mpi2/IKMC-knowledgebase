@@ -1,0 +1,52 @@
+<div class="tdTitle" style="margin-bottom: 12px;">
+  <div><b>Articles</b></div>
+</div>
+<table border="0" width="100%" cellpadding="2" cellspacing="1">
+<tbody>
+
+
+  {% for post in site.posts %}
+    {% if post.downloads %}
+      {% assign belongs_to_group = false %}
+      {% for article_category in post.article_categories %}
+        {% if article_category == page.category %}
+          {% assign belongs_to_group = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+  
+    {% else %}
+      {% continue %}
+    {% endif %}
+  
+    {% if belongs_to_group == false %}
+      {% continue %}
+    {% endif %}
+  
+    {% for dwnld in post.downloads %}
+    <tr valign="top">
+      {% assign doc_type = dwnld[1]["download_path"] | slice: -3, 3  %}
+      {% if doc_type == 'pdf' %}
+      <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
+      {% elsif doc_type == 'doc' %}
+      <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
+      {% endif %}
+      <td style="padding-left: 5px;" width="100%">
+        <a href="{{ site.baseurl }}/files/{{ dwnld[1]["download_path"]}}" class="articleLink">{{ dwnld[1]["download_path"] | escape }}</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td style="padding: 3px;">
+        <span class="articleStaff1">{{ dwnld[1]["title"] | escape }}</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 3px;"></td>
+    </tr>
+  {% endfor %}
+
+  {% endfor %}
+
+</tbody>
+</table>

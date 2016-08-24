@@ -1,0 +1,11 @@
+<div class="navigation">
+  {% assign relative_url = '' %}
+  {% assign bread_crumbs = page.url | split: '/' %}
+  <a href="{{ site.baseurl }}/" class="navigation">KB Home</a> 
+  {% for crumb in bread_crumbs %}
+    {% if crumb.size > 0 %}
+    {% assign relative_url =  relative_url | append: '/' | append: crumb %}
+      <a href="{{ site.baseurl }}{{relative_url}}/" class="navigation">/{{ crumb | replace: '_', ' ' | replace: 'ikmc', 'IKMC' | replace: 'komp', 'KOMP' | replace: 'eucomm', 'EUCOMM' | replace: 'eummcr', 'EUMMCR' | replace: 'emma', 'EMMA' | replace: 'mirko', 'mirKO' | replace: 'mgp', 'MGP' | replace: 'wtsi', 'WTSI' }} </a> 
+    {% endif %}
+  {% endfor %}
+</div>

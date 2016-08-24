@@ -28,5 +28,61 @@
 </div>
 
 <div id="menu_content">
+  <script type="text/javascript" src="http://www.knockoutmouse.org/kb/client/jscript/jquery/jquery.js"></script>
+  <div class="leftBlock categoryBlock">
+    <link rel="stylesheet" href="http://www.knockoutmouse.org/kb/client/skin/dtree.css" type="text/css" />
+    <script src="http://www.knockoutmouse.org/kb/client/jscript/dtree/dtree.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+      <!--
+      var img_path  = 'http://www.knockoutmouse.org/kb/client/jscript/dtree/';
+      var icon_path = 'http://www.knockoutmouse.org/kb/client/images/icons/';
+      var basehref = '{{ site.baseurl }}/';
+      d = new dTree('d');
+      d.config.useCookies = false;
+      d.config.inOrder = true;
+      d.add(0,  -1,' <b>Knowledgebase</b>',                 basehref+'');
+      {% include dtree-folder.html category='ikmc' %}
+      {% include dtree-folder.html category='ikmc_screen_and_quality_control' %}
+      {% include dtree-folder.html category='ikmc_wtsi_mouse_clinic_quality_control' %}
+      {% include dtree-folder.html category='komp' %}
+      {% include dtree-folder.html category='komp_screen_and_quality_control' %}
+      {% include dtree-folder.html category='eucomm' %}
+      {% include dtree-folder.html category='eucomm_screen_and_quality_control' %}
+      {% include dtree-folder.html category='eummcr' %}
+      {% include dtree-folder.html category='eummcr_screen_and_quality_control' %}
+      {% include dtree-folder.html category='emma' %}
+      {% include dtree-folder.html category='cryopreservation_of_emma_mutants' %}
+      {% include dtree-folder.html category='distibution_of_emma_stocks' %}
+      {% include dtree-folder.html category='dissemination_of_emma_knowledge' %}
+      {% include dtree-folder.html category='additional_emma_services' %}
+      {% include dtree-folder.html category='emma_and_international_networks' %}
+      {% include dtree-folder.html category='protocol' %}
+      {% include dtree-folder.html category='mirko' %}
+      {% include dtree-folder.html category='mirko_screen_and_quality_control' %}
+      {% include dtree-folder.html category='sanger_mgp' %}
+      {% include dtree-folder.html category='legal' %}
+
+      {% if page.article_category %}
+        {% include dtree-articles.html article_category=page.article_category %}
+      {% elsif page.article_categories %}
+        {% for category in page.article_categories %}
+          {% include dtree-articles.html article_category=category %}
+        {% endfor %}
+      {% endif %}
+
+      document.write(d);
+
+      {% if page.article_category %}
+        d.openTo({{ site.data.category_data[page.article_category]['id'] }}, false);
+      {% elsif page.article_categories %}
+        {% for category in page.article_categories %}
+          d.openTo({{ site.data.category_data[category]['id'] }}, false);
+        {% endfor %}
+      {% endif %}
+        //-->
+    </script>
+
+    <div id="dtree_content"></div>
+  </div>
 
 </div>
