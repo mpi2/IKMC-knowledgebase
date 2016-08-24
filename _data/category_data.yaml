@@ -1,0 +1,121 @@
+---
+ikmc: 
+    id: 2 
+    parent_id: 0
+    name: IKMC
+    url: basehref+'ikmc/'
+    download_url: basehref+'download/ikmc/'
+ikmc_screen_and_quality_control: 
+    id: 21
+    parent_id: 2
+    name: Screens and Quality Control
+    url: basehref+'ikmc/screens_and_quality_control/'
+    download_url: basehref+'download/ikmc/screens_and_quality_control/'
+ikmc_wtsi_mouse_clinic_quality_control:
+    id: 25
+    parent_id: 21
+    name: 'WTSI: Mouse Clinic Quality Control Tests - (Mice)'
+    url: basehref+'ikmc/screens_and_quality_control/wtsi_mouse_clinic_quality_control_tests__mice/'
+    download_url: basehref+'download/ikmc/screens_and_quality_control/wtsi_mouse_clinic_quality_control_tests__mice/'
+komp:
+    id: 3
+    parent_id: 0
+    name: KOMP
+    url: basehref+'komp/'
+    download_url: basehref+'download/komp/'
+komp_screen_and_quality_control:
+    id: 22
+    parent_id: 3
+    name: Screens and Quality Control
+    url: basehref+'komp/screens_and_quality_control/'
+    download_url: basehref+'download/komp/screens_and_quality_control/'
+eucomm:
+    id: 5
+    parent_id: 0
+    name: EUCOMM
+    url: basehref+'eucomm/'
+    download_url: basehref+'download/eucomm/'
+eucomm_screen_and_quality_control: 
+    id: 20
+    parent_id: 5
+    name: Screens and Quality Control
+    url: basehref+'eucomm/screens_and_quality_control/'
+    download_url: basehref+'download/eucomm/screens_and_quality_control/'
+eummcr: 
+    id: 6
+    parent_id: 0
+    name: EUMMCR
+    url: basehref+'eummcr/'
+    download_url: basehref+'download/eummcr/'
+eummcr_screen_and_quality_control:   
+    id: 24
+    parent_id: 6
+    name: Screens and Quality Control
+    url: basehref+'eummcr/screens_and_quality_control/'
+    download_url: basehref+'download/eummcr/screens_and_quality_control/'
+emma:
+    id: 7
+    parent_id: 0
+    name: EMMA
+    url: basehref+'emma/'
+    download_url: basehref+'download/emma/'
+cryopreservation_of_emma_mutants:
+   id: 13
+   parent_id: 7
+   name: Cryopreservation of EMMA Mutants
+   url: basehref+'emma/cryopreservation_of_emma_mutants/'
+   download_url: basehref+'download/emma/cryopreservation_of_emma_mutants/'
+distibution_of_emma_stocks:
+   id: 14
+   parent_id: 7
+   name: Distribution of EMMA Stocks
+   url: basehref+'emma/distribution_of_emma_stocks/'
+   download_url: basehref+'download/emma/distribution_of_emma_stocks/'
+dissemination_of_emma_knowledge:
+   id: 15
+   parent_id: 7
+   name: Dissemination of EMMA Knowledge
+   url: basehref+'emma/dissemination_of_emma_knowledge/'
+   download_url: basehref+'download/emma/dissemination_of_emma_knowledge/'
+additional_emma_services:
+   id: 16
+   parent_id: 7
+   name: Additional EMMA Services
+   url: basehref+'emma/additional_emma_services/'
+   download_url: basehref+'download/emma/additional_emma_services/'
+emma_and_international_networks: 
+   id: 17
+   parent_id: 7
+   name: EMMA and International Networks
+   url: basehref+'emma/emma_and_international_networks/'
+   download_url: basehref+'download/emma/emma_and_international_networks/'
+protocol:
+   id: 10
+   parent_id: 0
+   name: Protocols
+   url: basehref+'protocols/'
+   download_url: basehref+'download/protocols/'
+mirko:
+   id: 19
+   parent_id: 0
+   name: mirKO
+   url: basehref+'mirko/'
+   download_url: basehref+'download/mirko/'
+mirko_screen_and_quality_control:  
+   id: 23
+   parent_id: 19 
+   name: Screens and Quality Control
+   url: basehref+'mirko/screens_and_quality_control/'
+   download_url: basehref+'download/mirko/screens_and_quality_control/'
+sanger_mgp:
+   id: 11
+   parent_id: 0
+   name: Sanger MGP
+   url: basehref+'sanger_mgp/'
+   download_url: basehref+'download/sanger_mgp/'
+legal:
+   id: 18
+   parent_id: 0 
+   name: Legal
+   url: basehref+'legal/'
+   download_url: basehref+'download/legal/'
