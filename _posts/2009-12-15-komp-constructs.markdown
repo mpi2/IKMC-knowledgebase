@@ -2,6 +2,9 @@
 layout: article
 title:  "What are the targeting constructs used for making the KOMP products?"
 date:   2009-12-15 15:15:42 +0100
+article_categories:
+                 - komp
+article_id: 12
 ---
 
 The KOMP Repository acquires products from the two KOMP mutagenesis teams, the CSD Consortium (CHORI, Sanger Institute, and UC Davis) and Regeneron. The following are general details of construct design for each of the two production centers. 
@@ -16,5 +19,5 @@ A trapping cassette “SA-βgeo-pA” (splice acceptor-beta-geo-polyA) flanked b
 
 ![alt text][image-design1]
 
-[image-design2]: /images/design2.gif "Regeneron Allele"
-[image-design1]: /images/design1.gif "CSD Allele"
+[image-design2]: {{ site.baseurl }}/images/design2.gif "Regeneron Allele"
+[image-design1]: {{ site.baseurl }}/images/design1.gif "CSD Allele"

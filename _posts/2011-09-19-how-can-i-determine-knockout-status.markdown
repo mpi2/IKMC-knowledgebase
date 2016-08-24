@@ -2,6 +2,9 @@
 layout: article
 title:  "How can I determine the knockout status of my gene?"
 date:   2011-09-19 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 4
 ---
 
 Enter the gene symbol into the search box on the upper right and search. The resulting query summary lists one record (row) for each gene that matches your query.

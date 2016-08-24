@@ -2,8 +2,14 @@
 layout: article
 title:  "Can I receive email notification when IKMC products for my gene are available?"
 date:   2009-12-15 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 7
 ---
 
-Yes. For KOMP products go to the [KOMP Repository website][link_komp] and search for your gene of interest using the Product Search box. For genes for which KOMP targeting is in progress, there will be a Register Interest link. Follow that link to register interest. You will receive email notification as soon as KOMP products for your gene are available. Similar functionality will be implemented for the EUCOMM and NorCOMM projects as well.
+Yes. To see what products are available go to the [IMPC website][link_impc_products] and search for your gene of interest using the Product Search box. 
 
-[link_komp]: http://www.komp.org/
+To see the production status for a gene you can search the [IMPC website][link_impc_genes] for your gene of interest. There will be a Register Interest link. Follow that link to register interest. You will receive email notification as soon as products for your gene are available.
+
+[link_impc_products]: http://www.mousephenotype.org/data/search/allele2?kw=*
+[link_impc_genes]: http://www.mousephenotype.org/data/search/gene?kw=*

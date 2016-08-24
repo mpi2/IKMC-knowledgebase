@@ -2,6 +2,9 @@
 layout: article
 title:  "Does the MGP supply of ovocytes, sperm or embryos?"
 date:   2011-01-13 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 51
 ---
 
 **A.**  WTSI MGP does not supply ovocytes, sperm or embryos. As the WTSI MGP generates the mutant mouse lines for phenotypic analysis WTSI MGP is keen to offer available mice whilst on the shelf to the scientific community who have expressed an interest. However WTSI MGP is not a distribution centre that breeds for export.

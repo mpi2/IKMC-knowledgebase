@@ -2,6 +2,9 @@
 layout: article
 title:  "What is the genetic background of MGP mice?"
 date:   2011-03-30 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 66
 ---
 
 The mouse model the MGP sends will be supplied with an information sheet relating to the genetic background. This details contributing elements such as the Embryonic Stem Cell origin, Test Cross for germ line transmission and subsequent backcrossing that may have been carried out.

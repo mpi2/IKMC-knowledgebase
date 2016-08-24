@@ -2,6 +2,9 @@
 layout: article
 title:  "Targeting Vector Backbone Assay"
 date:   2010-11-30 15:15:42 +0100
+article_categories:
+                 - ikmc_wtsi_mouse_clinic_quality_control
+article_id: 97
 ---
 
 Primers are designed to amplify sequences present only in the vector backbone. If a correct homologous recombination has occurred then no product should be amplified. If a product is detected it strongly suggests an incorrect targeting event or a multiple insertion event.

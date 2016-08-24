@@ -2,6 +2,9 @@
 layout: article
 title:  "LoxP Confirmation"
 date:   2010-11-30 15:15:42 +0100
+article_categories:
+                 - ikmc_wtsi_mouse_clinic_quality_control
+article_id: 95
 ---
 
 Confirmation of the loxP site downstream of the critical exon can be achieved by several methods.
@@ -11,4 +14,4 @@ In some cases the region to be amplified may be too large for the standard PCR r
 
 ![alt text][image-loxp-pcr]
 
-[image-loxp-pcr]: /images/loxp_pcr.jpg "LoxP PCR"
+[image-loxp-pcr]: {{ site.baseurl }}/images/loxp_pcr.jpg "LoxP PCR"

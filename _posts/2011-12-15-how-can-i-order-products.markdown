@@ -2,6 +2,9 @@
 layout: article
 title:  "How can I order IKMC products?"
 date:   2009-12-15 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 9
 ---
 
 To order IKMC products you can search the IKMC database and follow the order links on the gene status details page (see above).

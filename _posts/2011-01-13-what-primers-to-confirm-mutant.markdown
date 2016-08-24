@@ -2,6 +2,9 @@
 layout: article
 title:  "What are the primers used to confirm the three-prime and five-prime homology arms for MGP mutants?"
 date:   2011-03-30 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 59
 ---
 
 The long range PCR (LR-PCR) genotyping primers may be obtained from the through the International Knockout Mouse Consortium (IKMC) website (www.knockoutmouse.org), searching for the gene target in question and following the links for details on the appropriate project and allele.

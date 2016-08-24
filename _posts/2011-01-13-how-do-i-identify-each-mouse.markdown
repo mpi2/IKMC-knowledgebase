@@ -2,6 +2,9 @@
 layout: article
 title:  "How do I identify each MGP mouse?"
 date:   2011-03-30 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 68
 ---
 
 Taking some Acot6 mutant mice as an example:

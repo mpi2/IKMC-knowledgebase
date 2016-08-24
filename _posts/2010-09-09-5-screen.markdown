@@ -2,6 +2,10 @@
 layout: article
 title:  "5' Screen"
 date:   2010-09-09 15:15:42 +0100
+article_categories:
+                 - komp_screen_and_quality_control
+                 - eucomm_screen_and_quality_control
+article_id: 81
 ---
 
 This is the third step in the KOMP-CSD/EUCOMM production centre QC pipeline. For conditional constructs , this test (the 5' Screen) is only performed If no long range PCR (LRPCR) bands are generated in the 3' Screen.
@@ -31,4 +35,4 @@ This logic is explained in more detail in the following flow chart:
 ![alt text][image-5-arm-QC-pass-fail-logic]
 
 [htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
-[image-5-arm-QC-pass-fail-logic]: /images/5_arm_QC_pass_fail_logic.png "5' arm QC logic"
+[image-5-arm-QC-pass-fail-logic]: {{ site.baseurl }}/images/5_arm_QC_pass_fail_logic.png "5' arm QC logic"

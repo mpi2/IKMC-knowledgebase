@@ -2,6 +2,9 @@
 layout: article
 title:  "Terms and Conditions for All Content on This Site"
 date:   2010-08-05 15:15:42 +0100
+article_categories: 
+                 - legal
+article_id: 48
 ---
 
 The material contained in this website is provided for general purposes only and, as such, should not be considered as a substitute for advice covering any specific situation.

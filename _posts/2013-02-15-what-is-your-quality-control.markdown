@@ -2,6 +2,13 @@
 layout: article
 title:  "What Is Your Quality Control (Genotyping) Strategy?"
 date:   2013-02-15 15:15:42 +0100
+article_categories: 
+                 - ikmc_screen_and_quality_control
+                 - komp_screen_and_quality_control
+                 - eucomm_screen_and_quality_control
+                 - eummcr_screen_and_quality_control
+                 - mirko_screen_and_quality_control
+article_id: 78
 ---
 
 Quality control screening of IKMC ES Cells can be performed in number of different ways.  This page details the different tests that are carried out on our products that we report on.

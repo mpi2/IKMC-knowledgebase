@@ -2,6 +2,9 @@
 layout: article
 title:  "When the ES Cells Become Available, Will There Be Any Documentation for Pathogen Testing?"
 date:   2010-08-05 15:15:42 +0100
+article_categories:
+                 - eucomm
+article_id: 18
 ---
 
 We do a mycoplasma assay on all our clones and one genotype verification using a short-range PCR method. This will take 2-3 more weeks.  The parental cell line used to generate the knockout cells has been fully MAP tested, and the actual cells you will be sent will have undergone a mycoplasma check, plus will have been re-genotyped to confirm the right vial was pulled.  

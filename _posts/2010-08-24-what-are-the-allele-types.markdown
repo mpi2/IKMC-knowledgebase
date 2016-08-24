@@ -2,6 +2,12 @@
 layout: article
 title:  "What are the IKMC allele types?"
 date:   2010-08-24 15:15:42 +0100
+article_categories: 
+                 - ikmc
+                 - komp
+                 - eucomm
+                 - sanger_mgp
+article_id: 89
 ---
 
 Summary of all IKMC allele types
@@ -42,15 +48,15 @@ Regeneron make lacZ-tagged, promoter-driven deletions
 ![alt text][image-tigm-gene-trap-neo]
 ![alt text][image-tigm-gene-trap]
 
-[image-wildtype]: /images/wildtype.png "Wildtype Allele"
-[image-eucomm-komp-csd-ko-first-promoter]: /images/eucomm_komp_csd_kofirst_promoter.png "EUCOMM & KOMP-CSD Promoter-Driven Conditional Knock-out"
-[image-eucomm-komp-csd-ko-first-promoterless]: /images/eucomm_komp_csd_kofirst_promoterless.png "EUCOMM & KOMP-CSD Promoterless Conditional Knock-out"
-[image-eucomm-komp-csd-noncond-promoter]: /images/eucomm_komp_csd_noncond_promoter.png "EUCOMM & KOMP-CSD Promoter Driven Non-Conditional"
-[image-eucomm-komp-csd-noncond-promoterless]: /images/eucomm_komp_csd_noncond_promoterless.png "EUCOMM & KOMP-CSD Promoterless Non-Conditional"
-[image-eucomm-komp-csd-deletion]: /images/komp_csd_deletion.png "EUCOMM & KOMP-CSD Deletion"
-[image-komp-regeneron-deletion]: /images/komp_regn_deletion.png  "KOMP Regeneron Deletion"
-[image-norcomm-deletion-lacz]: /images/norcomm_deletion_lacz.png  "NorCOMM Deletion with LacZ"
-[image-norcomm-deletion-promoter]: /images/norcomm_deletion_promoter.png  "NorCOMM Promoter Driven Deletion"
-[image-eucomm-gene-trap]: /images/eucomm_gene_trap.png  "EUCOMM Gene Trap"
-[image-tigm-gene-trap]: /images/tigm_gene_trap.png "TIGM Gene Trap"
-[image-tigm-gene-trap-neo]: /images/tigm_gene_trap_neo.png "TIGM Gene TRAP with NEO"
+[image-wildtype]: {{ site.baseurl }}/images/wildtype.png "Wildtype Allele"
+[image-eucomm-komp-csd-ko-first-promoter]: {{ site.baseurl }}/images/eucomm_komp_csd_kofirst_promoter.png "EUCOMM & KOMP-CSD Promoter-Driven Conditional Knock-out"
+[image-eucomm-komp-csd-ko-first-promoterless]: {{ site.baseurl }}/images/eucomm_komp_csd_kofirst_promoterless.png "EUCOMM & KOMP-CSD Promoterless Conditional Knock-out"
+[image-eucomm-komp-csd-noncond-promoter]: {{ site.baseurl }}/images/eucomm_komp_csd_noncond_promoter.png "EUCOMM & KOMP-CSD Promoter Driven Non-Conditional"
+[image-eucomm-komp-csd-noncond-promoterless]: {{ site.baseurl }}/images/eucomm_komp_csd_noncond_promoterless.png "EUCOMM & KOMP-CSD Promoterless Non-Conditional"
+[image-eucomm-komp-csd-deletion]: {{ site.baseurl }}/images/komp_csd_deletion.png "EUCOMM & KOMP-CSD Deletion"
+[image-komp-regeneron-deletion]: {{ site.baseurl }}/images/komp_regn_deletion.png  "KOMP Regeneron Deletion"
+[image-norcomm-deletion-lacz]: {{ site.baseurl }}/images/norcomm_deletion_lacz.png  "NorCOMM Deletion with LacZ"
+[image-norcomm-deletion-promoter]: {{ site.baseurl }}/images/norcomm_deletion_promoter.png  "NorCOMM Promoter Driven Deletion"
+[image-eucomm-gene-trap]: {{ site.baseurl }}/images/eucomm_gene_trap.png  "EUCOMM Gene Trap"
+[image-tigm-gene-trap]: {{ site.baseurl }}/images/tigm_gene_trap.png "TIGM Gene Trap"
+[image-tigm-gene-trap-neo]: {{ site.baseurl }}/images/tigm_gene_trap_neo.png "TIGM Gene TRAP with NEO"

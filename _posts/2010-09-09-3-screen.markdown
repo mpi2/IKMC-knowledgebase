@@ -2,6 +2,10 @@
 layout: article
 title:  "3' Screen"
 date:   2010-09-09 15:15:42 +0100
+article_categories:
+                 - komp_screen_and_quality_control
+                 - eucomm_screen_and_quality_control
+article_id: 82
 ---
 
 This is the second step in the KOMP-CSD/EUCOMM production centre QC pipeline.
@@ -30,4 +34,4 @@ This logic is explained in more detail in the following flow chart:
 ![alt text][image-3-arm-QC-pass-fail-logic]
 
 [htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
-[image-3-arm-QC-pass-fail-logic]: /images/3_arm_QC_pass_fail_logic.png "3' arm QC logic"
+[image-3-arm-QC-pass-fail-logic]: {{ site.baseurl }}/images/3_arm_QC_pass_fail_logic.png "3' arm QC logic"

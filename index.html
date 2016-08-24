@@ -1,11 +1,15 @@
 ---
 layout: default
+sub_categories: 
+            - { name: ikmc, display_text: IKMC }
+            - { name: komp, display_text: KOMP }
+            - { name: eucomm, display_text: EUCOMM  }
+            - { name: eummcr, display_text: EUMMCR }
+            - { name: emma, display_text: EMMA }
+            - { name: protocol, display_text: Protocols }
+            - { name: mirko, display_text: mirKO }
+            - { name: sanger_mgp, display_text: Sanger MGP }
+            - { name: legal, display_text: Legal }
 ---
 
-{% include sub-categories.html %}
-<br><br>
-{% include articles.html%}
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+{% include category-index.html %}

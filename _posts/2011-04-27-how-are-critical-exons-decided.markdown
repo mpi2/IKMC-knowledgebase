@@ -2,6 +2,11 @@
 layout: article
 title:  "How is the \"critical\" exon decided in CSD alleles?"
 date:   2011-04-27 15:15:42 +0100
+article_categories:
+                 - ikmc
+                 - komp
+                 - eucomm
+article_id: 102
 ---
 
 A number of criteria are applied when choosing the critical exon for a KOMP-CSD or EUCOMM allele, but not every gene can have all criteria fulfilled:

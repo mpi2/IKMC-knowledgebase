@@ -2,6 +2,9 @@
 layout: article
 title:  "What Are the EuMMCR Handling Fees?"
 date:   2010-08-05 15:15:42 +0100
+article_categories:
+                 - eummcr
+article_id: 19
 ---
 
 The EuMMCR price structure is the following:

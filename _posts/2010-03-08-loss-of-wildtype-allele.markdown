@@ -2,6 +2,9 @@
 layout: article
 title:  "Loss of Wild Type Allele (LOA)"
 date:   2011-03-08 15:15:42 +0100
+article_categories:
+                 - komp_screen_and_quality_control
+article_id: 84
 ---
 
 This is a Taqman based screen in which the target primers/probe are developed within a unique wildtype region that is replaced or interrupted via homologous recombination of both vector homology arms.  

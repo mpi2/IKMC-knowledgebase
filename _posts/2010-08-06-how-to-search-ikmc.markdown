@@ -2,6 +2,9 @@
 layout: article
 title:  "How Can I Search the IKMC Database?"
 date:   2010-08-06 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 2
 ---
 The search box offers many methods of searching the IKMC database.
 You can specify multiple search terms separated by spaces or commas. Each of these terms will be used to match genes in the database. The search terms are case insensitive, so "PAX6" is treated the same as "Pax6" by the search.

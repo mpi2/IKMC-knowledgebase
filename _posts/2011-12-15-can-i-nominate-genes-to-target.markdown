@@ -1,9 +1,12 @@
 ---
 layout: article
-title:  "Can I nominate genes for targeting by IKMC? Can I raise the priority for genes that are on the IKMC gene list?"
+title:  "Can I nominate genes for targeting by IKMC/IMPC? Can I raise the priority for genes that are on the IKMC/IMPC gene list?"
 date:   2009-12-15 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 5
 ---
 
-The answer to both questions is yes. IKMC welcomes gene nomination and prioritization requests from the research community. Please complete and submit the online gene nomination form [www.knockoutmouse.org/startnominategene][link-to-nominate-genes]. All submissions will be forwarded to and considered by the IKMC administrators.
+The answer to both questions is yes. IMPC welcomes gene nomination and prioritization requests from the research community. Please [register interest][link_impc_genes] in a gene on the IMPC website to nomination a gene. All submissions will be forwarded to and considered by the IMPC administrators.
 
-[link-to-nominate-genes]: http://www.knockoutmouse.org/startnominategene
+[link_impc_genes]: http://www.mousephenotype.org/data/search/gene?kw=*

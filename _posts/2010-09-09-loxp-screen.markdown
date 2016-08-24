@@ -2,6 +2,10 @@
 layout: article
 title:  "LoxP Screen"
 date:   2010-09-09 15:15:42 +0100
+article_categories:
+                 - komp_screen_and_quality_control
+                 - eucomm_screen_and_quality_control
+article_id: 83
 ---
 
 This is the first step in the KOMP-CSD/EUCOMM production centre QC pipeline.
@@ -32,4 +36,4 @@ This logic is explained in more detail in the following flow chart:
 ![alt text][image-loxp-QC-pass-fail-logic]
 
 [htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
-[image-loxp-QC-pass-fail-logic]: /images/LoxP_QC_pass_fail_logic.png "LoxP QC logic"
+[image-loxp-QC-pass-fail-logic]: {{ site.baseurl }}/images/LoxP_QC_pass_fail_logic.png "LoxP QC logic"

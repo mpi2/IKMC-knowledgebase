@@ -2,6 +2,9 @@
 layout: article
 title:  "How can I browse the IKMC database?"
 date:   2009-12-15 15:15:42 +0100
+article_categories:
+                 - ikmc
+article_id: 3
 ---
 
 You can browse the IKMC database by selecting the "Browse" tab in the upper right of the screen. You are presented two options

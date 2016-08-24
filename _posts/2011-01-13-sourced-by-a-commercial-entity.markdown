@@ -2,6 +2,9 @@
 layout: article
 title:  "Can MGP materials be sourced by a commercial entity?"
 date:   2011-03-30 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 72
 ---
 
 Currently this depends on whether the mice were derived from EUCOMM or KOMP ES cell resources and where the mice are available from:

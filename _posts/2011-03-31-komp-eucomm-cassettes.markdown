@@ -2,6 +2,10 @@
 layout: article
 title:  "What are the EUCOMM and KOMP-CSD gene targeting cassettes?"
 date:   2011-03-31 15:15:42 +0100
+article_categories:
+                 - komp
+                 - eucomm
+article_id: 100
 ---
 
  EUCOMM and KOMP-CSD Gene Targeting Cassettes

@@ -2,6 +2,9 @@
 layout: article
 title:  "Is There Any Chance That EUCOMM Could Generate a Mouse for Us?"
 date:   2010-08-05 15:15:42 +0100
+article_categories:
+                 - eucomm
+article_id: 14
 ---
 
 Yes. As part of our quality control effort, EUCOMM does produce 320 different mouse lines. EUCOMM ES cells get selected for mouse production and assigned to four of the five mouse clinics in EUCOMM.

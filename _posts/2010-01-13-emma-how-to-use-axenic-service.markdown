@@ -2,6 +2,9 @@
 layout: article
 title:  "How can I use the EMMA axenic (germ-free) service?"
 date:   2010-01-13 15:15:42 +0100
+article_categories:
+                 - additional_emma_services
+article_id: 44
 ---
 
 ### How can I use the EMMA axenic (germ-free) service?
@@ -14,7 +17,7 @@ Further germ-free services including additional production, housing and experime
 
 EMMA's germ-free service is not restricted to strains that are archived with EMMA and EMMA does not require germ-free strains to be made publicly available.
 
-[link-axenic-service]: http://www.emmanet.org/axenic/service.php
-[link-request-form]: http://www.emmanet.org/cgi-bin/axenicForm.pl
-[link-capacities-specific-programme]: http://www.emmanet.org/projects/emmaservice-activities.php
-[link-collaborating-institutes]: http://www.emmanet.org/axenic/institutes.php
+[link-axenic-service]: https://www.infrafrontier.eu/resources-and-services/axenic-service
+[link-request-form]: https://www.infrafrontier.eu/sites/infrafrontier.eu/files/upload/public/pdf/Resources%20and%20Services/2013-09-30_emma_axenic_service_request_form.doc
+[link-capacities-specific-programme]: http://cordis.europa.eu/programme/rcn/847_en.html
+[link-collaborating-institutes]: https://www.infrafrontier.eu/resources-and-services/axenic-service/institutions-and-facilities

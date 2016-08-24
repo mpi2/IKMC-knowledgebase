@@ -2,6 +2,12 @@
 layout: article
 title:  "Which Exons Are \"Floxed\" by My Conditional Knockout?"
 date:   2010-08-05 15:15:42 +0100
+article_categories:
+                 - ikmc
+                 - komp
+                 - eucomm
+                 - eummcr
+article_id: 21
 ---
 
 You can find this out yourself by following these steps:
@@ -29,6 +35,6 @@ You can find this out yourself by following these steps:
 [link-knockoutmouse-search-example]: http://www.knockoutmouse.org/search_results?criteria=Prmt1
 [link-knockoutmouse-gene-details]: http://www.knockoutmouse.org/genedetails/MGI:107846
 [link-ensemble-exons]: http://www.ensembl.org/Mus_musculus/Transcript/Exons?db=vega;t=OTTMUST00000048689
-[image-prmt1-flox1]: /images/prmt1_flox1.jpg "Gene Search"
-[image-prmt1-allele-details]: /images/prmt1_allele_details.jpg "Allele Structure"
-[image-prmt1-ensembl-exons]: /images/prmt1_ensembl_exons.jpg "Ensembl"
+[image-prmt1-flox1]: {{ site.baseurl }}/images/prmt1_flox1.jpg "Gene Search"
+[image-prmt1-allele-details]: {{ site.baseurl }}/images/prmt1_allele_details.jpg "Allele Structure"
+[image-prmt1-ensembl-exons]: {{ site.baseurl }}/images/prmt1_ensembl_exons.jpg "Ensembl"

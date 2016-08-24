@@ -2,6 +2,9 @@
 layout: article
 title:  "Mouse Clinic Quality Control Tests - (Mice)"
 date:   2010-09-20 15:15:42 +0100
+article_categories:
+                 - ikmc_screen_and_quality_control
+article_id: 90
 ---
 
 This page describes the end-user quality control tests we would expect to be carried out on our Mouse products.  If you have data such as this on any of our products and you would like to share it with other IKMC resource users, please get in touch.

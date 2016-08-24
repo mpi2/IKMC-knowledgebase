@@ -2,6 +2,9 @@
 layout: article
 title:  "What is the MGP?"
 date:   2010-08-05 15:15:42 +0100
+article_categories: 
+                 - sanger_mgp
+article_id: 50
 ---
 
 The WTSI MGP generates mutant mouse lines using ES cell resources from the European Conditional Mouse Mutagenesis programme (**EUCOMM** [www.eucomm.org][link-eucomm] ) and Knockout Mouse Project (**KOMP** [www.komp.org][link-komp] ). ES cells may be obtained by the scientific community from these sources.

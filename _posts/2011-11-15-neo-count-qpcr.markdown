@@ -2,6 +2,11 @@
 layout: article
 title:  "Neo Count (qPCR)"
 date:   2011-11-15 15:15:42 +0100
+article_categories:
+                 - ikmc_wtsi_mouse_clinic_quality_control
+article_id: 91
+downloads:
+        35: { download_path: "Genotyping by copy number by qPCR multiplex.pdf"} 
 ---
 
 The Neo count qPCR assay uses a hydrolysis probe assay (eg Applied Biosystems TaqMan technology) to determine the copy number of the Neo cassette in a sample. Homozygotes will possess two copies of Neo, heterozygotes one copy and wild type mice will show no amplification. The theory behind the calling method is discussed further here.
@@ -11,4 +16,4 @@ Neo count qPCR can be used as a routine genotyping tool once the rest of the QC 
 
 ![alt text][image-neo-qpcr1]
 
-[image-neo-qpcr1]: /images/neo_qpcr1.jpg "NEO qPCR"
+[image-neo-qpcr1]: {{ site.baseurl }}/images/neo_qpcr1.jpg "NEO qPCR"
