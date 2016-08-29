@@ -99,20 +99,19 @@ function doBottomRate(val) {
 }
 
 function validateQuickSearch(message) {
-	var f = document.getElementById('searchq');
-	var d = document.getElementById('div_search_alert');
-	if(isBlank(f.value)) {
-		//alert(message);
-		d.style.display = 'block';
-		f.focus();
-		return false;
-	}
-	
-	d.style.display = 'none';
+  var f = document.getElementById('searchq');
+  var d = document.getElementById('div_search_alert');
+  if(isBlank(f.value)) {
+    //alert(message);
+    d.style.display = 'block';
+    f.focus();
+    return false;
+  }
+  
+  d.style.display = 'none';
 
-	return true;	
+  return true;  
 }
-
 //-------------------------------------------------------------------
 // isBlank(value)
 //   Returns true if value only contains spaces
