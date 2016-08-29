@@ -16,7 +16,7 @@
 title: IKMC KnowledgeBase
 email: pm9@ebi.ac.uk
 description: "IKMC KnowledgeBase provides information about the projects involved in the IKMC and answers commonly asked questions about allele designs, QC protocols and ordering of products (Mice, ES Cells and Targeting Vectors)."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/IKMC-knowledgebase" # the subpath of your site, e.g. /blog
 url: "http://i-dcc.org.co.uk" # the base hostname & protocol for your site
 github_username:  pm9@ebi.ac.uk
 
