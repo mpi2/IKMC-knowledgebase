@@ -27,9 +27,9 @@
     <tr valign="top">
       {% assign doc_type = dwnld[1]["download_path"] | slice: -3, 3  %}
       {% if doc_type == 'pdf' %}
-      <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
+      <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
       {% elsif doc_type == 'doc' %}
-      <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
+      <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
       {% endif %}
       <td style="padding-left: 5px;" width="100%">
         <a href="{{ site.baseurl }}/files/{{ dwnld[1]["download_path"]}}" class="articleLink">{{ dwnld[1]["download_path"] | escape }}</a>

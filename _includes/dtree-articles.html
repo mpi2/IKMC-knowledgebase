@@ -1,7 +1,7 @@
 {% for post in site.posts %}
   {% for article_category in post.article_categories %}
     {% if article_category == include.article_category %}
-      d.add('40'+'{{site.data.category_data[include.article_category]['id']}}'+'{{post.article_id}}', {{site.data.category_data[include.article_category]['id']}}, "{{post.title | escape}}", basehref+'{{post.url}}', '{{post.title | escape}}', '', 'http://www.knockoutmouse.org/kb/client/images/icons/article.gif', 'http://www.knockoutmouse.org/kb/client/images/icons/article.gif');
+      d.add('40'+'{{site.data.category_data[include.article_category]['id']}}'+'{{post.article_id}}', {{site.data.category_data[include.article_category]['id']}}, "{{post.title | escape}}", basehref+'{{post.url}}', '{{post.title | escape}}', '', '{{ site.baseurl }}/images/article.gif', '{{ site.baseurl }}/images/article.gif');
     {% endif %}
   {% endfor %}
 {% endfor %}

@@ -52,7 +52,7 @@
                 <tr><td colspan="2" style="padding: 3px;"></td></tr>
                 {% for category in page.article_categories %}
                 <tr valign="top">
-                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/icons/folder.gif" alt="folder" width="15" height="12"></td>
+                  <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/folder.gif" alt="folder" width="15" height="12"></td>
                   <td width="100%" style="padding-left: 4px;">
                     <a href="{{site.data.category_data[category]["url"] | replace: "basehref+", "basehref+/"| replace: "basehref+", site.baseurl | replace: "'", "" }}" class="articleLinkOther">{{site.data.category_data[category]["name"]}}</a>
                   </td>
@@ -71,9 +71,9 @@
                 <tr valign="top">
                   {% assign doc_type = download[1]["download_path"] | slice: -3, 3  %}
                   {% if doc_type == 'pdf' %}
-                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
+                  <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/filetypes/pdf.png" alt="folder" width="15" height="12"></td>
                   {% elsif doc_type == 'doc' %}
-                  <td style="padding-left: 5px;"><img src="http://www.knockoutmouse.org/kb/client/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
+                  <td style="padding-left: 5px;"><img src="{{ site.baseurl }}/images/filetypes/doc.png" alt="folder" width="15" height="12"></td>
                   {% endif %}
                   <td width="100%" style="padding-left: 4px;">
                     <a href="{{site.baseurl}}/files/{{ download[1]["download_path"]}}" class="articleLinkOther">{{ download[1]["download_path"] }}</a>

@@ -3,12 +3,12 @@
 <div id="menu_content">
   <script type="text/javascript" src="http://www.knockoutmouse.org/kb/client/jscript/jquery/jquery.js"></script>
   <div class="leftBlock categoryBlock">
-    <link rel="stylesheet" href="http://www.knockoutmouse.org/kb/client/skin/dtree.css" type="text/css" />
-    <script src="http://www.knockoutmouse.org/kb/client/jscript/dtree/dtree.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/dtree.css" type="text/css" />
+    <script src="{{ site.baseurl }}/javascripts/dtree/dtree.js" type="text/javascript"></script>
     <script language="javascript" type="text/javascript">
       <!--
-      var img_path  = 'http://www.knockoutmouse.org/kb/client/jscript/dtree/';
-      var icon_path = 'http://www.knockoutmouse.org/kb/client/images/icons/';
+      var img_path  = '{{ site.baseurl }}/images/dtree/';
+      var icon_path = '{{ site.baseurl }}/images/icons/';
       var basehref = '{{ site.baseurl }}/';
       d = new dTree('d');
       d.config.useCookies = false;
