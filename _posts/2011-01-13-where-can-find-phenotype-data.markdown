@@ -15,6 +15,6 @@ Early notification on phenotyping data, may be received by subscribing to the MG
 
 Another source of phenotype information is the [Europhenome Mouse Phenotyping Resource][link-europhenome]
 
-[link-europhenome]: http://www.europhenome.org
+[link-europhenome]: https://www.europhenome.org
 [link-impc]: https://www.mousephenotype.org/
 [email-sanger]: mailto:MGPEnquiries@sanger.ac.uk

@@ -20,6 +20,6 @@ For Mice obtained from the KOMP Repository:
 
 [www.komp.org/mta.php][link-komp]
 
-[link-emma]: www.emmanet.org/mtas/MTA_EUCOMM_for_EMMA_SANG.pdf
-[link-sanger]: www.sanger.ac.uk/Teams/Team109/mta.shtml
-[link-komp]: http://www.komp.org/mta.php
+[link-emma]: https://www.emmanet.org/mtas/MTA_EUCOMM_for_EMMA_SANG.pdf
+[link-sanger]: https://www.sanger.ac.uk/Teams/Team109/mta.shtml
+[link-komp]: https://www.komp.org/mta.php

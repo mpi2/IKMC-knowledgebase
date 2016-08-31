@@ -19,6 +19,6 @@ Please note that for the mice supplied to the scientific community by WTSI:
     * Confirm the individual mouse genotype by short-range PCR and/or quantitative PCR (qPCR) by counting the copy number variation of the neo marker.
     * Confirm location of the targeted mutation by either long-range PCR or by the detection of homozygous mice by gene specific SR-PCR
 
-[link-eucomm]: http://www.eucomm.org
-[link-komp]: http://www.komp.org
-[link-emma]: http://www.emmanet.org
+[link-eucomm]: https://www.eucomm.org
+[link-komp]: https://www.komp.org
+[link-emma]: https://www.emmanet.org

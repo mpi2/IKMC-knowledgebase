@@ -16,9 +16,9 @@ You can also access the different IKMC Repositories directly.
 * To order NorCOMM products go to the [NorCOMM Services][link-norcomm-services]
 * To order TIGM products go to the [TIGM Repository][link-tigm-repo].
 
-[link-komp-repo]: http://www.komp.org/
-[link-eucomm-order]: http://www.eucomm.org/contact/
+[link-komp-repo]: https://www.komp.org/
+[link-eucomm-order]: https://www.eucomm.org/contact/
 [email-eucomm-contact]: mailto:eucomm@sanger.ac.uk
-[link-norcomm-services]: http://norcomm.phenogenomics.ca/accessing_services.htm
-[link-tigm-repo]: http://www.tigm.org/cgi-bin/tigminfo.cgi
+[link-norcomm-services]: https://norcomm.phenogenomics.ca/accessing_services.htm
+[link-tigm-repo]: https://www.tigm.org/cgi-bin/tigminfo.cgi
 

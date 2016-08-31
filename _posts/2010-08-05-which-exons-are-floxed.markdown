@@ -31,10 +31,10 @@ You can find this out yourself by following these steps:
 
 4. Also on ENSEMBL page you see a list of the exons of Prmt1. The exon 4 is OTTMUSE00000231382 and exon 5 is OTTMUSE00000240475. Those are the two exons, which are "floxed" in the EUCOMM Prmt1 allele.
 
-[link_knockoutmouse]: http://www.knockoutmouse.org
-[link-knockoutmouse-search-example]: http://www.knockoutmouse.org/search_results?criteria=Prmt1
-[link-knockoutmouse-gene-details]: http://www.knockoutmouse.org/genedetails/MGI:107846
-[link-ensemble-exons]: http://www.ensembl.org/Mus_musculus/Transcript/Exons?db=vega;t=OTTMUST00000048689
+[link_knockoutmouse]: https://www.knockoutmouse.org
+[link-knockoutmouse-search-example]: https://www.knockoutmouse.org/search_results?criteria=Prmt1
+[link-knockoutmouse-gene-details]: https://www.knockoutmouse.org/genedetails/MGI:107846
+[link-ensemble-exons]: https://www.ensembl.org/Mus_musculus/Transcript/Exons?db=vega;t=OTTMUST00000048689
 [image-prmt1-flox1]: {{ site.baseurl }}/images/prmt1_flox1.jpg "Gene Search"
 [image-prmt1-allele-details]: {{ site.baseurl }}/images/prmt1_allele_details.jpg "Allele Structure"
 [image-prmt1-ensembl-exons]: {{ site.baseurl }}/images/prmt1_ensembl_exons.jpg "Ensembl"

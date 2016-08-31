@@ -9,4 +9,4 @@ article_id: 5
 
 The answer to both questions is yes. IMPC welcomes gene nomination and prioritization requests from the research community. Please [register interest][link_impc_genes] in a gene on the IMPC website to nomination a gene. All submissions will be forwarded to and considered by the IMPC administrators.
 
-[link_impc_genes]: http://www.mousephenotype.org/data/search/gene?kw=*
+[link_impc_genes]: https://www.mousephenotype.org/data/search/gene?kw=*

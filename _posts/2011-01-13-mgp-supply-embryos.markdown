@@ -11,5 +11,5 @@ article_id: 51
 
 Lines derived from EUCOMM ES cell resources are being archived and deposited at European Mouse Mutant Archive (**EMMA**; [www.emmanet.org][link-emma] ) distribution nodes for sustainable distribution to the scientific community. Embryos if available may be sourced from here. Lines generated from KOMP ES cell resources are supplied to the KOMP Repository ([www.komp.org][link-komp]) where a range of materials may be requested.
 
-[link-emma]: http://www.emmanet.org
-[link-komp]: http://www.komp.org
+[link-emma]: https://www.emmanet.org
+[link-komp]: https://www.komp.org

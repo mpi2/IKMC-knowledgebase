@@ -11,4 +11,4 @@ In designing a strategy for the introduction of FlpeR and Cre lines consideratio
 
 The preconditional strain may be mated to a FLPeR strain to delete the region of DNA flanked by FRT sites which includes the selectable cassette. Genotype confirmation of the deletion event should be carried out. The resulting conditional strain may be further progressed to incorporate Cre deleter transgenes to remove critical coding region(s) as desired.
 
-[link-htgt]: http://www.sanger.ac.uk/htgt/htgt2
+[link-htgt]: https://www.sanger.ac.uk/htgt/htgt2

@@ -9,4 +9,4 @@ article_id: 47
 
 EMMA is a founding member of the [Federation of International Mouse Resources][link-federation] (FIMRe), a collaborating group of mouse repository and resource centers from around the world whose collective goal is to archive and disseminate mouse strains as cryopreserved embryos and gametes, ES cell lines and live animals to the research community. Other FIMRe members include representatives from the United States, Canada, Japan and Australia.
 
-[link-federation]: http://www.fimre.org/
+[link-federation]: https://www.fimre.org/

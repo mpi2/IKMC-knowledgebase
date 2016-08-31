@@ -19,5 +19,5 @@ EMMA's germ-free service is not restricted to strains that are archived with EMM
 
 [link-axenic-service]: https://www.infrafrontier.eu/resources-and-services/axenic-service
 [link-request-form]: https://www.infrafrontier.eu/sites/infrafrontier.eu/files/upload/public/pdf/Resources%20and%20Services/2013-09-30_emma_axenic_service_request_form.doc
-[link-capacities-specific-programme]: http://cordis.europa.eu/programme/rcn/847_en.html
+[link-capacities-specific-programme]: https://cordis.europa.eu/programme/rcn/847_en.html
 [link-collaborating-institutes]: https://www.infrafrontier.eu/resources-and-services/axenic-service/institutions-and-facilities

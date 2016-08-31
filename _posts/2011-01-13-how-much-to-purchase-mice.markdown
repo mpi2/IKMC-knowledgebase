@@ -17,5 +17,5 @@ Shipping costs for supplying these mice will need to be covered by the receiving
 Please contact [mouseinterest@sanger.ac.uk][email-sanger] for details.
 
 [link-emma]: https://www.infrafrontier.eu/resources-and-services/access-emma-mouse-resources/strain-ordering
-[link-komp]: http://www.komp.org
+[link-komp]: https://www.komp.org
 [email-sanger]: mailto:mouseinterest@sanger.ac.uk

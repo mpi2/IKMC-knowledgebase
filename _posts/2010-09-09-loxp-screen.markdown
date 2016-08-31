@@ -35,5 +35,5 @@ This logic is explained in more detail in the following flow chart:
 
 ![alt text][image-loxp-QC-pass-fail-logic]
 
-[htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
+[htgt]: https://www.sanger.ac.uk/htgt/htgt2/welcome
 [image-loxp-QC-pass-fail-logic]: {{ site.baseurl }}/images/LoxP_QC_pass_fail_logic.png "LoxP QC logic"

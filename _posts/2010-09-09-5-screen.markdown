@@ -34,5 +34,5 @@ This logic is explained in more detail in the following flow chart:
 
 ![alt text][image-5-arm-QC-pass-fail-logic]
 
-[htgt]: http://www.sanger.ac.uk/htgt/htgt2/welcome
+[htgt]: https://www.sanger.ac.uk/htgt/htgt2/welcome
 [image-5-arm-QC-pass-fail-logic]: {{ site.baseurl }}/images/5_arm_QC_pass_fail_logic.png "5' arm QC logic"

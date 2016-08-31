@@ -12,5 +12,5 @@ The EMMA strains can also be accessed from the following web sites:
 * [IMSR][link-imsr]
 * [ENSEMBL][link-ensembl] 
 
-[link-imsr]: http://www.informatics.jax.org/imsr/index.jsp
-[link-ensembl]: http://www.ensembl.org/
+[link-imsr]: https://www.informatics.jax.org/imsr/index.jsp
+[link-ensembl]: https://www.ensembl.org/

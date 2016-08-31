@@ -9,4 +9,4 @@ article_id: 52
 
 Availability of ES cells may be investigated and sourced through the International Mouse Phenotyping Consortium (IMPC [www.mousephenotype.org][link-impc]) website by searching for your target of interest and following the links to the appropriate resource.
 
-[link-impc]: 'http://www.mousephenotype.org/data/search/allele2?kw=*&fq=(es_cell_available:"true")'
+[link-impc]: 'https://www.mousephenotype.org/data/search/allele2?kw=*&fq=(es_cell_available:"true")'
