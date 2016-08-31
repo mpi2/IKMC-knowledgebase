@@ -7,10 +7,16 @@ article_categories:
 article_id: 3
 ---
 
-You can browse the IKMC database by selecting the "Browse" tab in the upper right of the screen. You are presented two options
+The IKMC database has moved and is now available through the [IMPC portal][link-impc-portal].
 
-Browse by gene symbol
-Browse by chromosome
-Browsing by symbol separates the genes in the database by the first letter of the gene's official symbol. The genes are presented 50 genes at a time. Clicking on "Browse by gene symbol" brings you to the first page of genes that start with the letter "A" (case insensitive).
+You can browse the IMPC database by going to the [IMPC portal][link-impc-portal] and selecting the "Search" tab.
+You can search by gene symbol, disease, phenotype call and allele symbol and you are presented with 6 tabs to explore the data through.
 
-You are presented with navigation to go to the first page, the last page, or the previous/next page. You can jump to each letter of the alphabet (along with 0-9) by selecting the letter from the list.
+* Genes
+* Phenotypes
+* Diseases
+* Anatomy
+* Images
+* Products
+
+[link-impc-portal]: https://www.mousephenotype.org/data/search

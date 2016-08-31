@@ -7,4 +7,10 @@ article_categories:
 article_id: 6
 ---
 
-Due to the high-throughput nature of the IKMC efforts, no special efforts for individual genes can be pursued if there are experimental problems with the targeting effort for that gene. Therefore, it is currently difficult to provide production timelines . If successful, there is a 60% chance that targeting will be completed after 6 month, and an 80% chance that it will be completed after 9 month. There will be instances where the targeting effort will take longer or not succeed at all. Once the mutant ES cells are ready they will be transferred from the production centers to the corresponding KOMP, EUCOMM, and NorCOMM Repositories which are responsible for distributing KOMP products.
+The IKMC Project has been complete and no more Targeting Vectors or ES Cells will be constructed by the IKMC.
+
+All available ES cells, and Targeting Vectors have been transferred by the production centers to the corresponding KOMP, EUCOMM, and NorCOMM Repositories which are responsible for distributing products.
+
+The [IMPC][link-impc] are continuing to convert ES Cells into mice for distribution through KOMP Repository and EMMA. From 2016 the IMPC mouse production effort has switched to producing mutant mice using CRISPR CAS9 technology. The IMPC no longer plan to use the IKMC ES Cell resource in there high-throughput pipeline to produce mice but will produce mice from ES Cells on request from the scientific community.
+
+[link-impc]: https://www.mousephenotype.org/
