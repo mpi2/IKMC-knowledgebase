@@ -11,13 +11,13 @@
         appendString += '<tr valign="top">';
 
         if (item.title.substring(item.title.length -3 , item.title.length) == 'pdf'){
-          appendString +=   '<td style="padding-left: 5px;"><img src="' + 'http://www.knockoutmouse.org/kb/client/images/filetypes/pdf.png' + '" alt="document" width="11" height="14"></td>';
+          appendString +=   '<td style="padding-left: 5px;"><img src="' + '/IKMC-knowledgebase/images/filetypes/pdf.png' + '" alt="document" width="11" height="14"></td>';
         }
         else if (item.title.substring(item.title.length -3 , item.title.length) == 'doc'){
-          appendString +=   '<td style="padding-left: 5px;"><img src="' + 'http://www.knockoutmouse.org/kb/client/images/filetypes/doc.png' + '" alt="document" width="11" height="14"></td>';
+          appendString +=   '<td style="padding-left: 5px;"><img src="' + '/IKMC-knowledgebase/images/filetypes/doc.png' + '" alt="document" width="11" height="14"></td>';
         }
         else {
-          appendString +=   '<td style="padding-left: 5px;"><img src="' + '/kb/images/article.gif' + '" alt="document" width="11" height="14"></td>';
+          appendString +=   '<td style="padding-left: 5px;"><img src="' + '/IKMC-knowledgebase/images/article.gif' + '" alt="document" width="11" height="14"></td>';
         }
         appendString +=   '<td style="padding-left: 5px;" width="100%">';
         appendString +=     '<a href="' + item.url + '" class="articleLink">' + item.title + '</a>';
