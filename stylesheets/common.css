@@ -176,8 +176,6 @@ input.longText  { width : 250px;   }
 
 .nextprev		{  }
 A.nextprev		{ font-weight: bold; }
-.basic-table table {border-spacing: 0; border-style: 1pt solid; margin-left: -22.95pt; border-collapse: collapse;}
-.basic-table table th {background: rgb(216, 216, 216); height: 15pt;}
 
 /*
 img {display: block;} 
