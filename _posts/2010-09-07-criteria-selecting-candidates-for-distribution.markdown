@@ -11,6 +11,7 @@ article_id: 88
 This matrix details the relationship between the production centre screens ([LoxP Screen][loxp-screen], [3' Screen][3-screen], [5' Screen][5-screen]) and the availability of products to the distribution centres.
 
 <div class="basic-table">
+
 | 5' Screen | loxP Screen | 3' Screen |  LOA Screen | loxP TaqMan| Distribution Candidate |
 |-----------|-------------|-----------|-------------|------------|------------------------|
 |           | pass        |           |             |            |  no                    |
@@ -24,6 +25,7 @@ This matrix details the relationship between the production centre screens ([Lox
 | pass      |             |           |             |            | targeted trap / deletion / insertion |
 | pass      |             |  pass     |             |            | targeted trap / deletion / insertion |
 |           |             |           | pass        |            | targeted trap / deletion / insertion |
+
 </div>
 
 [loxp-screen]: {{ site.baseurl }}/2010/09/09/loxp-screen.html
