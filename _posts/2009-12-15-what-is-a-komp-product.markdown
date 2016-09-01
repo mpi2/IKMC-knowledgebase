@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "What are the targeting constructs used for making the KOMP products??"
+title:  "What is a KOMP “product”?"
 date:   2009-12-15 15:15:42 +0100
 article_categories:
                  - komp
