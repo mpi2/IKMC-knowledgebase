@@ -4,7 +4,7 @@ title:  "How much does it cost to purchase mice from the MGP?"
 date:   2011-01-13 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 54
+article_id: AUG54UAG
 ---
 
 For lines registered through EMMA.

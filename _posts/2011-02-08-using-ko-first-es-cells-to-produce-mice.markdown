@@ -6,7 +6,7 @@ article_categories:
                  - komp
                  - eucomm
                  - sanger-mgp
-article_id: 99
+article_id: AUG99UAG
 ---
 
 Question:

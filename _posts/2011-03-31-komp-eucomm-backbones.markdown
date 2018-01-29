@@ -5,7 +5,7 @@ date:   2011-03-31 15:15:42 +0100
 article_categories:
                  - komp
                  - eucomm
-article_id: 101
+article_id: AUG101UAG
 ---
 
 These are the EUCOMM and KOMP-CSD targeting vector plasmid backbones

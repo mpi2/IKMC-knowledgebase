@@ -4,7 +4,7 @@ title:  "LoxP Confirmation"
 date:   2010-11-30 15:15:42 +0100
 article_categories:
                  - ikmc_wtsi_mouse_clinic_quality_control
-article_id: 95
+article_id: AUG95UAG
 ---
 
 Confirmation of the loxP site downstream of the critical exon can be achieved by several methods.

@@ -4,7 +4,7 @@ title:  "LR-PCR (5' and 3') Screens"
 date:   2010-08-05 15:15:42 +0100
 article_categories: 
                  - mirko_screen_and_quality_control
-article_id: 79
+article_id: AUG79UAG
 ---
 
 The mirKO production laboratory performs long range PCR (LR-PCR) across the shorter of the two homology arms with one generic primer within the targeting cassette and a locus specific primer outside the targeting vector.

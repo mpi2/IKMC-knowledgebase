@@ -4,7 +4,7 @@ title:  "What can I obtain from EMMA and what is the delivery time"
 date:   2015-07-03 15:15:42 +0100
 article_categories:
                  - distibution_of_emma_stocks
-article_id: 33
+article_id: AUG33UAG
 ---
 
 You can obtain sperm or embryos as frozen samples with a delivery time of four weeks. If you order live mice after rederivation EMMA will deliver within 4 to 6 months. Some strains in high demand are maintained as live colonies and can be shipped within one month. In general, service requests will not be processed until a fully executed MTA has been received (where applicable) and either a billing address or a purchase order number has been provided by the customer. Therefore please note that the delivery times given above represent the time period between the date when all paperwork is in place and the date of shipment.

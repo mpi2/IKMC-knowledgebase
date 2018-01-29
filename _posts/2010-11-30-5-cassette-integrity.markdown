@@ -4,7 +4,7 @@ title:  "5' Cassette Integrity"
 date:   2010-11-30 15:15:42 +0100
 article_categories:
                  - ikmc_wtsi_mouse_clinic_quality_control
-article_id: 92
+article_id: AUG92UAG
 ---
 
 The 5’ cassette check used by WTSI confirms the presence of the upstream FRT site and that the 5' end of the cassette is still present. The assay is shown below.

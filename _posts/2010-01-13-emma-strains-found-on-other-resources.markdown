@@ -4,7 +4,7 @@ title:  "Can EMMA strains be found on other internet resources?"
 date:   2010-01-13 15:15:42 +0100
 article_categories:
                  - distibution_of_emma_stocks
-article_id: 41
+article_id: AUG41UAG
 ---
 
 The EMMA strains can also be accessed from the following web sites:

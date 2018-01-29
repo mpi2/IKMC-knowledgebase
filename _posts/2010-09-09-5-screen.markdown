@@ -5,7 +5,7 @@ date:   2010-09-09 15:15:42 +0100
 article_categories:
                  - komp_screen_and_quality_control
                  - eucomm_screen_and_quality_control
-article_id: 81
+article_id: AUG81UAG
 ---
 
 This is the third step in the KOMP-CSD/EUCOMM production centre QC pipeline. For conditional constructs , this test (the 5' Screen) is only performed If no long range PCR (LRPCR) bands are generated in the 3' Screen.

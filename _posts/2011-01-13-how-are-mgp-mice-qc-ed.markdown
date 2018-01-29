@@ -4,7 +4,7 @@ title:  "What QC is carried out for the WTSI MGP mice?"
 date:   2011-01-13 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 58
+article_id: AUG58UAG
 ---
 
 Currently:

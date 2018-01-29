@@ -4,7 +4,7 @@ title:  "My gene is in the production pipeline. How long will it take until vect
 date:   2009-12-15 15:15:42 +0100
 article_categories:
                  - ikmc
-article_id: 6
+article_id: AUG6UAG
 ---
 
 The IKMC Project has been complete and no more Targeting Vectors or ES Cells will be constructed by the IKMC.

@@ -55,6 +55,7 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx_articles = lunr(function () {
       this.field('id');
+      this.field('article_id', { boost: 20, wildcard: 0} );
       this.field('title', { boost: 10 });
       this.field('content');
     });
@@ -62,6 +63,7 @@
     for (var key in window.store["Articles"]) { // Add the data to lunr
       idx_articles.add({
         'id': key,
+        'article_id': window.store["Articles"][key].article_id,
         'title': window.store["Articles"][key].title,
         'content': window.store["Articles"][key].content,
         'date': window.store["Articles"][key].date
@@ -75,6 +77,7 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx_downloads = lunr(function () {
       this.field('id');
+      this.field('article_id', { boost: 20 });
       this.field('title', { boost: 10 });
       this.field('content');
     });
@@ -82,6 +85,7 @@
     for (var key in window.store["Downloads"]) { // Add the data to lunr
       idx_downloads.add({
         'id': key,
+        'article_id': window.store["Downloads"][key].article_id,
         'title': window.store["Downloads"][key].title,
         'content': window.store["Downloads"][key].content,
         'date': window.store["Downloads"][key].date

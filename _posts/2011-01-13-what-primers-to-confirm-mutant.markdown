@@ -4,7 +4,7 @@ title:  "What are the primers used to confirm the three-prime and five-prime hom
 date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 59
+article_id: AUG59UAG
 ---
 
 The long range PCR (LR-PCR) genotyping primers may be obtained from the through the International Knockout Mouse Consortium (IKMC) website (www.knockoutmouse.org), searching for the gene target in question and following the links for details on the appropriate project and allele.

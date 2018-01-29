@@ -4,7 +4,7 @@ title:  "tm1a allele conversion guide"
 date:   2011-03-30 15:15:42 +0100
 article_categories:
                  - sanger_mgp
-article_id: 105
+article_id: AUG105UAG
 downloads:
         36: { download_path: "tm1a allele conversion guide2.pdf"}  
 

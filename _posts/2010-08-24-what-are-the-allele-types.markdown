@@ -7,7 +7,7 @@ article_categories:
                  - komp
                  - eucomm
                  - sanger_mgp
-article_id: 89
+article_id: AUG89UAG
 ---
 
 Summary of all IKMC allele types

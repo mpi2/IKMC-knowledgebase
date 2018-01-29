@@ -4,7 +4,7 @@ title:  "Who is responsible for determining/confirming the structure of the muta
 date:   2011-01-13 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 55
+article_id: AUG55UAG
 ---
 
 WTSI MGP generates mutant mouse lines from the KOMP and EUCOMM ES cell resources. The structure of the targeted mutation in the ES cells used to generate these mutant mice is not verified by the WTSI MGP. It is recommended therefore that the recipient confirms the mutation structure.

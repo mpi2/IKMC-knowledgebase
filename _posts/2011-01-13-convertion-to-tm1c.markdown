@@ -4,7 +4,7 @@ title:  "Genotyping of mice converted to Tm1c post flp treatment?"
 date:   2011-03-30 15:15:42 +0100
 article_categories:
                  - sanger_mgp
-article_id: 103
+article_id: AUG103UAG
 downloads:
         30: { download_path: "Conditional knockout colonies - FRT mice v2.pdf"} 
 ---

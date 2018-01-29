@@ -4,7 +4,7 @@ title:  "How can I use the EMMA axenic (germ-free) service?"
 date:   2010-01-13 15:15:42 +0100
 article_categories:
                  - additional_emma_services
-article_id: 44
+article_id: AUG44UAG
 ---
 
 ### How can I use the EMMA axenic (germ-free) service?

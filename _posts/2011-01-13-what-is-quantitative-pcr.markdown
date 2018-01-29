@@ -4,7 +4,7 @@ title:  "What is quantitative PCR (qPCR) genotyping used by the MGP?"
 date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 65
+article_id: AUG65UAG
 ---
 
 We use a qPCR reaction to count the neo gene marker present in the targeting cassette; heterozygotes will have one copy of the Neo gene, a homozygote will have two copies and a wild type will have no copies.

@@ -4,7 +4,7 @@ title:  "Which Wild-Type ES Cell Lines Have Been Used to Generate Conditional Kn
 date:   2010-08-05 15:15:42 +0100
 article_categories:
                  - eummcr
-article_id: 75
+article_id: AUG75UAG
 ---
 
 | WT ES Cell Line |  Background |   Remarks| 

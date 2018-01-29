@@ -26,7 +26,7 @@ layout: search
       {% for post in site.posts %}
         "{{ post.url | slugify }}": {
           "title": "{{ post.title | xml_escape }}",
-          "id": "{{ post.article_id }}",
+          "article_id": "{{ post.article_id }}",
           "content": {{ post.content | strip_html | strip_newlines | jsonify }},
           "url": "{{ site.baseurl }}{{ post.url | xml_escape }}",
           "date": "{{post.date | date_to_long_string}}"
@@ -43,7 +43,7 @@ layout: search
           {% assign n = 1 %}
           "{{ dwnld[1]["download_path"] | slugify }}": {
             "title": "{{ dwnld[1]["download_path"] | xml_escape }}",
-            "id": "{{ post.article_id }}",
+            "article_id": "{{ post.article_id }}",
             "content": {{ dwnld[1]["title"] | strip_html | strip_newlines | jsonify }},
             "url": "{{ site.baseurl }}/files/{{ dwnld[1]['download_path']}}",
             "date": "{{post.date | date_to_long_string}}"

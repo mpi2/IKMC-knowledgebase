@@ -4,7 +4,7 @@ title:  "Where can I find information (e.g. a detailed allele map) for the mutan
 date:   2011-01-13 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 56
+article_id: AUG56UAG
 ---
 
 Details of the targeted allele may be viewed through the International Mouse Phenotyping Consortium (IMPC) website ([https://www.mousephenotype.org][link-impc]), searching for the gene target in question and following the links for details on the appropriate project and allele.

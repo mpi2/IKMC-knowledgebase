@@ -4,7 +4,7 @@ title:  "LacZ SR-PCR"
 date:   2010-11-30 15:15:42 +0100
 article_categories:
                  - ikmc_wtsi_mouse_clinic_quality_control
-article_id: 93
+article_id: AUG93UAG
 ---
 
 The LacZ short range PCR detects the presence of the LacZ reporter in the cassette. This can be used as a rapid screen on F1 chimera progeny samples to detect likely germ line transmission. The WTSI genotyping assay is shown below

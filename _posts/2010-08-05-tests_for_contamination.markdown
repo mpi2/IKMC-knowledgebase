@@ -4,7 +4,7 @@ title:  "Tests for Contamination"
 date:   2010-08-05 15:15:42 +0100
 article_categories:
                  - eummcr_screen_and_quality_control
-article_id: 77
+article_id: AUG77UAG
 ---
 
 The EUCOMM production labs have MAP testing performed on the wild type ES cell stocks used in electroporations in order to generate ES cell clones.  Each individual knockout clone is not MAP tested.

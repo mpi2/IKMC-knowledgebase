@@ -6,7 +6,7 @@ article_categories:
                  - ikmc
                  - komp
                  - eucomm
-article_id: 102
+article_id: AUG102UAG
 ---
 
 A number of criteria are applied when choosing the critical exon for a KOMP-CSD or EUCOMM allele, but not every gene can have all criteria fulfilled:

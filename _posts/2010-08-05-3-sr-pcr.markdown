@@ -4,7 +4,7 @@ title:  "3' SR-PCR"
 date:   2010-08-05 15:15:42 +0100
 article_categories:
                  - eummcr_screen_and_quality_control
-article_id: 86
+article_id: AUG86UAG
 ---
 
 The EUCOMM  distribution laboratory (EuMMCR) performs one short-range PCR (SR-PCR) with a gene specific primer and a generic primer adjacent to the downstream loxP site.  With this PCR we show that the downstream LoxP site is in the right distance to the targeted region.

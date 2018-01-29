@@ -4,7 +4,7 @@ title:  "What are the targeting constructs used for making the KOMP products?"
 date:   2009-12-15 15:15:42 +0100
 article_categories:
                  - komp
-article_id: 12
+article_id: AUG12UAG
 ---
 
 The KOMP Repository acquires products from the two KOMP mutagenesis teams, the CSD Consortium (CHORI, Sanger Institute, and UC Davis) and Regeneron. The following are general details of construct design for each of the two production centers. 

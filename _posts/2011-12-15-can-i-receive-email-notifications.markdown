@@ -4,7 +4,7 @@ title:  "Can I receive email notification when IKMC products for my gene are ava
 date:   2009-12-15 15:15:42 +0100
 article_categories:
                  - ikmc
-article_id: 7
+article_id: AUG7UAG
 ---
 
 Yes. To see what products are available go to the [IMPC website][link_impc_products] and search for your gene of interest using the Product Search box. 

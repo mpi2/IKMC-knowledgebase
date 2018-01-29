@@ -5,7 +5,7 @@ date:   2010-09-09 15:15:42 +0100
 article_categories:
                  - komp_screen_and_quality_control
                  - eucomm_screen_and_quality_control
-article_id: 83
+article_id: AUG83UAG
 ---
 
 This is the first step in the KOMP-CSD/EUCOMM production centre QC pipeline.

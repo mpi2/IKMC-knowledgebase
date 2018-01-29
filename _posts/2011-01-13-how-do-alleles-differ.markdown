@@ -5,7 +5,7 @@ date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - eucomm
                  - sanger_mgp
-article_id: 60
+article_id: AUG60UAG
 ---
 
 The clones labelled as "Knockout first" are expected to contain all the loxP sites as shown in the allele map. The knockout is obtained by introduction of a splice acceptor/reporter- cassette with a strong polyA site into an endogenous intron upstream of a critical exon. Should this allele be exposed to Flpase it is expected to revert to expressing wild type protein; upon subsequent exposure to Cre recombinase the critical exon is expected to be deleted.

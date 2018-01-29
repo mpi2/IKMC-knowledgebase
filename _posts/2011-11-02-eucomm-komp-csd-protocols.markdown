@@ -6,7 +6,7 @@ article_categories:
                  - protocol
                  - komp
                  - eucomm
-article_id: 23
+article_id: AUG23UAG
 downloads:
         4: {title: "GATEWAY 96 well reactions (15-08-08)
 (Before attempting these protocols refer to COSHH procedure and

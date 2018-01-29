@@ -4,7 +4,7 @@ title:  "Do you have primer sequences to identify the conditional allele that sh
 date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 61
+article_id: AUG61UAG
 ---
 
 If the cassette has been successfully flipped out the internal LacZ PCR would be expected to fail, but the mutant-specific PCR would be expected to still amplify a band in mutant mice, as it is 5’ to the first FRT site.

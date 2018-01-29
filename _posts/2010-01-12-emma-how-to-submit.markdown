@@ -4,7 +4,7 @@ title:  "How do I submit a mouse to EMMA?"
 date:   2010-01-12 15:15:42 +0100
 article_categories:
                  - cryopreservation_of_emma_mutants
-article_id: 25
+article_id: AUG25UAG
 ---
 
 On the INFRAFRONTIER [home page][link-infrafrontier] you can find a [submission form][link-submission], which you should complete and send to EMMA via the website. On the submission form you will be asked to give contact information, the type and description of your mutation, the phenotype and genetic background of your mouse, the sanitary status, literature information (PubMedIDs), information on scientific interest and intellectual property rights and some additional information needed for handling the mice.

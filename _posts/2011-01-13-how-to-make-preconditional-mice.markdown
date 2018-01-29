@@ -4,7 +4,7 @@ title:  "How do I make a preconditional MGP mouse model conditional?"
 date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 67
+article_id: AUG67UAG
 ---
 
 In designing a strategy for the introduction of FlpeR and Cre lines consideration to the mutation type should be contemplated. Allele maps may be viewed at the [HTGT][link-htgt] website and searching for the gene in question and viewing the details .The clone ID used at microinjection to generate the colony relates to the appropriate mutation allele map.

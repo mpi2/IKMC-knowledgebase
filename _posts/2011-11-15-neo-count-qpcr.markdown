@@ -4,7 +4,7 @@ title:  "Neo Count (qPCR)"
 date:   2011-11-15 15:15:42 +0100
 article_categories:
                  - ikmc_wtsi_mouse_clinic_quality_control
-article_id: 91
+article_id: AUG91UAG
 downloads:
         35: { download_path: "Genotyping by copy number by qPCR multiplex.pdf"} 
 ---

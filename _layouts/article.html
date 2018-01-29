@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
   	<title>{{ page.title }}</title>
-	
 	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/common.css">
 	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/common_view.css">
 	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/default_no_header.css">
@@ -37,7 +36,10 @@
                   <td colspan="2" class="tdSubTitle"><b>Article</b></td>
                 </tr>
                 <tr><td colspan="2" style="padding: 3px;"></td></tr>
-                <tr><td class="tdArticleTitle"><h1 class="articleTitle">{{ page.title }}</h1></td></tr>
+                <tr><td class="tdArticleTitle"><h1 class="articleTitle">{{ page.title }}</h1></td>
+                  <td><h3>({{ page.article_id }})</h3></td>
+                </tr>
+
                 <tr><td valign="top" style="padding: 10px 5px;">
                   <div class="textBlock" style="padding-bottom: 10px;" id="kbp_article_body">{{ content }}</div>
                 </td></tr>

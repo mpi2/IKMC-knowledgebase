@@ -7,7 +7,7 @@ article_categories:
                  - komp
                  - eucomm
                  - eummcr
-article_id: 21
+article_id: AUG21UAG
 ---
 
 You can find this out yourself by following these steps:

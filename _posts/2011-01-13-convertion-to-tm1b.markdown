@@ -4,7 +4,7 @@ title:  "Genotyping of mice converted to Tm1b post Cre treatment?"
 date:   2011-03-30 15:15:42 +0100
 article_categories:
                  - sanger_mgp
-article_id: 104
+article_id: AUG104UAG
 downloads:
         31: { download_path: "Gene x generic Cre mice.pdf"}  
 ---

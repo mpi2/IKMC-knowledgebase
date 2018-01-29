@@ -8,7 +8,7 @@ article_categories:
                  - eucomm_screen_and_quality_control
                  - eummcr_screen_and_quality_control
                  - mirko_screen_and_quality_control
-article_id: 78
+article_id: AUG78UAG
 ---
 
 Quality control screening of IKMC ES Cells can be performed in number of different ways.  This page details the different tests that are carried out on our products that we report on.

@@ -4,7 +4,7 @@ title:  "Is an MTA required to obtain MGP mice, and where do I find the right MT
 date:   2011-03-30 15:15:42 +0100
 article_categories: 
                  - sanger_mgp
-article_id: 71
+article_id: AUG71UAG
 ---
 
 An MTA is required before mice can be shipped. The MTA required depends on whether the mice were derived from EUCOMM or KOMP ES cell resources. Currently:
