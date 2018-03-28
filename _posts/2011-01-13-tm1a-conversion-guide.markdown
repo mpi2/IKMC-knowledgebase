@@ -6,7 +6,7 @@ article_categories:
                  - sanger_mgp
 article_id: AUG105UAG
 downloads:
-        36: { download_path: "tm1a allele conversion guide2.pdf"}  
+        36: { download_path: "EUCOMM_KOMP-CSD allele conversion guide v3a.pdf"}  
 
 ---
 
